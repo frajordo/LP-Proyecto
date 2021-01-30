@@ -1,13 +1,12 @@
 class Empleo
-    attr_accessor :titulo, :empresa, :salario, :provincia, :tiempo_publicacion, :mision 
+    attr_accessor :trabajo, :empleador, :localizacion, :tiempo_publicacion, :descripcion 
   
-    def initialize(titulo, empresa, salario, provincia, tiempo_publicacion, mision)
-      @titulo = titulo
-      @empresa = empresa
-      @salario = salario
-      @provincia = provincia
+    def initialize(trabajo, empleador, localizacion, tiempo_publicacion, descripcion)
+      @trabajo = trabajo
+      @empleador = empleador
+      @localizacion = localizacion
       @tiempo_publicacion = tiempo_publicacion
-      @mision = mision  
+      @descripcion = descripcion  
     end
   
     # def imprimir()
