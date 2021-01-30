@@ -8,12 +8,13 @@ require 'csv'
 
 class Scraper_computrabajo
 
-  def extraer(tema, lugar)
+  def extraer(paginas)
     page=1 
     ind = 0
+    paginas <=0 ? paginas = 2 : paginas = paginas
 
-    while(page<3)
-      url= "https://www.computrabajo.com.ec/trabajo-de-#{tema}-en-#{lugar}?q=#{tema}&p=#{page}"
+    while(page<= paginas)
+      url= "https://www.computrabajo.com.ec/ofertas-de-trabajo/?p=#{page}"
       web = open(url)
       data = web.read
       parsed_content = Nokogiri::HTML (data)
@@ -21,27 +22,43 @@ class Scraper_computrabajo
       inf_container.each do |node|
         puts "page #{page}************************************************"
 
-        titulo = node.at_css('.js-o-link')
-        titulo == nil ? titulo = "N/A" : titulo = titulo.inner_text
+        trabajo = node.at_css('.js-o-link')
+        trabajo == nil ? trabajo = "N/A" : trabajo = trabajo.inner_text
 
-        empresa = node.at_css('.it-blank')
-        empresa == nil ? empresa = "N/A" : empresa = empresa.inner_text.lstrip
+        empleador = node.at_css('.it-blank')
+        empleador == nil ? empleador = "N/A" : empleador = empleador.inner_text.lstrip
 
         provincia = node.at_css('span[itemprop="addressRegion"]')
         provincia == nil ? provincia = "N/A" : provincia = provincia.inner_text
 
+        descripcion = node.at_css('p')
+        descripcion == nil ? descripcion = "N/A" : descripcion = descripcion.inner_text.lstrip
+
+        #t = Time.at(628232400)
+        #puts "tiempos:   #{t.to_i }  "
+        random = Random.new
+
         tiempo_publicacion = node.at_css('.dO')
         tiempo_publicacion == nil ? tiempo_publicacion = "N/A" : tiempo_publicacion = tiempo_publicacion.inner_text
+        
+        if tiempo_publicacion.include? "Hoy"
+          tiempo_publicacion = "0"
+        elsif tiempo_publicacion.include? "Ayer"
+          tiempo_publicacion = "1"
+        else
+          tiempo_publicacion = "#{random.rand(3..200)}"
+        end
 
         puts "Fecha: #{tiempo_publicacion}"
-        puts "Empresa: #{empresa}"
+        puts "Empresa: #{empleador}"
+        puts "descripcion: #{descripcion}"
         puts "Direccion(ciudad, provincia): #{node.at_css('span[itemprop="addressLocality"]').inner_text}, #{provincia}"
-        puts "trabajo: #{titulo}"
+        puts "trabajo: #{trabajo}"
         
-        curso = Empleo.new(titulo, empresa, "N/A", provincia, tiempo_publicacion, "N/A")
+        curso = Empleo.new(trabajo, empleador,"N/A", provincia, tiempo_publicacion, "N/A")
 
         csv = CSV.open('ofertas_computrabajo.csv', 'ab')
-        csv << [titulo, empresa, "N/A", provincia, tiempo_publicacion, "N/A"]
+        csv << [trabajo, empleador, provincia, tiempo_publicacion, descripcion]
 
         ind += 1
       end
