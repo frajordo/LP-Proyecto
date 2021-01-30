@@ -2,7 +2,7 @@ require_relative "scraper.rb"
 require "./Scraper_computrabajo.rb"
 
 scrap=Scraper.new()
-#scrap.extraer("Arquitecto", "Ecuador")
+scrap.extraer("", "Ecuador")
 
-sc = Scraper_computrabajo.new
-sc.extraer(15)
+#sc = Scraper_computrabajo.new()
+#sc.extraer("auxiliar", "ecuador")
