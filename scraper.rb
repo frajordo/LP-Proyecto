@@ -29,6 +29,7 @@ class Scraper
           company="N/A"
         end
         location=desc.css("ul.details").css("li").first.text.strip
+        location=location.split(", ")[0]
         date=desc.css("ul.tags").css("li").first.text.strip
         if date.include? "horas"
           date="0"

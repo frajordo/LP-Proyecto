@@ -57,7 +57,7 @@ class Scraper_computrabajo
         
         curso = Empleo.new(trabajo, empleador,"N/A", provincia, tiempo_publicacion, "N/A")
 
-        csv = CSV.open('ofertas_computrabajo.csv', 'ab')
+        csv = CSV.open("-Ecuador.csv", 'ab')
         csv << [trabajo, empleador, provincia, tiempo_publicacion, descripcion]
 
         ind += 1

@@ -4,5 +4,5 @@ require "./Scraper_computrabajo.rb"
 scrap=Scraper.new()
 scrap.extraer("", "Ecuador")
 
-#sc = Scraper_computrabajo.new()
-#sc.extraer("auxiliar", "ecuador")
+sc = Scraper_computrabajo.new()
+#sc.extraer(10)
