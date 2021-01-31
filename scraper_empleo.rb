@@ -48,7 +48,11 @@ class ScraperEmpleo
               end
             end
           end
-        end        
+        end
+        if lugar.include?(",")
+          localizacion = lugar.split(",")
+          lugar = localizacion[0]     
+        end   
         trabajo = Empleo.new(titulo, empresa, lugar, tiempo_publicacion)
         @@empleos.append(trabajo)   
       end
