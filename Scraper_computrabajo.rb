@@ -7,11 +7,15 @@ require 'csv'
 #csv << [nombre, nivel, tipo, institucion, imagen]
 
 class Scraper_computrabajo
+  ACTUAL_SECONDS = Time.new.to_i
 
   def extraer(paginas)
     page=1 
     ind = 0
     paginas <=0 ? paginas = 2 : paginas = paginas
+    meses = ["x", "enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre" ]
+    mesActual = 0
+    anioACTUAL =2021
 
     while(page<= paginas)
       url= "https://www.computrabajo.com.ec/ofertas-de-trabajo/?p=#{page}"
@@ -20,7 +24,6 @@ class Scraper_computrabajo
       parsed_content = Nokogiri::HTML (data)
       inf_container = parsed_content.css('.bRS.bClick')
       inf_container.each do |node|
-        puts "page #{page}************************************************"
 
         trabajo = node.at_css('.js-o-link')
         trabajo == nil ? trabajo = "N/A" : trabajo = trabajo.inner_text
@@ -34,9 +37,7 @@ class Scraper_computrabajo
         descripcion = node.at_css('p')
         descripcion == nil ? descripcion = "N/A" : descripcion = descripcion.inner_text.lstrip
 
-        #t = Time.at(628232400)
-        #puts "tiempos:   #{t.to_i }  "
-        random = Random.new
+        
 
         tiempo_publicacion = node.at_css('.dO')
         tiempo_publicacion == nil ? tiempo_publicacion = "N/A" : tiempo_publicacion = tiempo_publicacion.inner_text
@@ -46,7 +47,16 @@ class Scraper_computrabajo
         elsif tiempo_publicacion.include? "Ayer"
           tiempo_publicacion = "1"
         else
-          tiempo_publicacion = "#{random.rand(3..200)}"
+          if mesActual == 1 and meses.index(tiempo_publicacion.split()[1]) == 12
+            anioACTUAL = anioACTUAL -1
+          end
+
+          diaActual = tiempo_publicacion.split()[0].to_i
+          mesActual = meses.index(tiempo_publicacion.split()[1])
+
+          fechaPublicacion = Time.new(anioACTUAL, mesActual, diaActual)
+          dias_publicacion =  ( ACTUAL_SECONDS - fechaPublicacion.to_i ) / 86400
+          tiempo_publicacion = "#{dias_publicacion}"
         end
         
         csv = CSV.open("-Ecuador.csv", 'ab')
@@ -56,5 +66,6 @@ class Scraper_computrabajo
       end
       page+=1
     end
+    puts "datos extraido de computrabajo exitosamente"
   end
 end
