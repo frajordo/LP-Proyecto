@@ -37,8 +37,6 @@ class Scraper_computrabajo
         descripcion = node.at_css('p')
         descripcion == nil ? descripcion = "N/A" : descripcion = descripcion.inner_text.lstrip
 
-        
-
         tiempo_publicacion = node.at_css('.dO')
         tiempo_publicacion == nil ? tiempo_publicacion = "N/A" : tiempo_publicacion = tiempo_publicacion.inner_text
         
@@ -60,7 +58,7 @@ class Scraper_computrabajo
         end
         
         csv = CSV.open("-Ecuador.csv", 'ab')
-        csv << [trabajo, empleador, provincia, tiempo_publicacion, descripcion]
+        csv << [trabajo, empleador, provincia, tiempo_publicacion]
 
         ind += 1
       end

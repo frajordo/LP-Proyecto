@@ -8,5 +8,5 @@ scrap.extraer("", "Ecuador")
 sc = Scraper_computrabajo.new()
 sc.extraer(10)
 
-#scraper_empleo = ScraperEmpleo.new()
-#scraper_empleo.extraer("Ecuador")
+scraper_empleo = ScraperEmpleo.new()
+scraper_empleo.extraer("Ecuador")

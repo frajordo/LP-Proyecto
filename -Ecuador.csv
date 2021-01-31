@@ -1,401 +1,991 @@
-Trabajo,Empleador,Localizacion,Fecha,Descripción
-técnicos,PARTS AND SERVICES RT,Quito,1,"Atención y servicio al cliente Conocimiento detallado de los sistemas informáticos, redes, hardware y software. Habilidades de negociación y de gestión. Habilidades de comunicación…"
-Desarrollador Web .Net,Stratus Solutions S.A,Quito,3,"En Initium Software. Estamos en la búsqueda de Desarrolladores Web.Net Senior, los objetivos para este cargo son: Analizar, diseñar, codificar, probar y documentar requerimientos f…"
-CONTADOR OKASCONSULTING GROUP,Claro,Quito,0,FORMACIÓN: EGRESADO EN LA CARRERAS DE CONTABILIDAD   EXPERIENCIA: EXPERIENCIA LABORAL DE 1 A 3 AÑOS EN CARGOS SIMILARES EN EL SECTOR DE RETAIL.   CONOCIMIENTOS: MANEJO EXCEL INTERM…
-ASISTENTE BANCA DE PERSONAS 29 ENERO 2021,Claro,Guayaquil,0,"OBJETIVO DEL CARGO   BRINDAR APOYO EN EL MANTENIMIENTO E INCREMENTO DE LA CARTERA DE CLIENTES DEL SEGMENTO DE BANCA PERSONAS, ASÍ TAMBIÉN EN LA EJECUCIÓN DE TAREAS ADMINISTRATIVAS …"
-ASESOR DE NEGOCIOS 2021 QUITO CARAPUNGO,Claro,Quito,0,LA COOPERATIVA REQUIERE INCORPORAR A SU EQUIPO UN:   ASESOR DE NEGOCIOS   PARA LA CIUDAD DE QUITO Y CARAPUNGO   MISIÓN DEL CARGO   ASESORAR A LOS SOCIOS Y CLIENTES SOBRE LOS PRODUC…
-Comprador de Bienes y Servicios,Almacenes De Prati S.A.,Guayaquil,0,"Atender los requerimientos de adquisición y contratación de bienes y servicios generados por todas las áreas de la empresa, a fin de precautelar el eficaz y oportuno abastecimiento…"
-INGENIERO DE CONTROL DE VERSIONES Y DEVOPS,BGR,Quito,0,"MISION DEL CARGO  Asegurar la integridad de los repositorios de código fuente, librerías y ejecutables del software generado por banco o proveedores que desplieguen sus componentes…"
-JEFE REGIONAL DE NEGOCIOS COSTA,Claro,Portoviejo,0,"FORMA PARTE DE LA FAMILIA BVF   Buscamos: JEFE REGIONAL DE NEGOCIOS COSTA   Zona de influencia: Portoviejo, Quevedo, Chillanes, La Maná   De preferencia residir: En zona de influen…"
-COORDINADOR DE ZONA QUITO,DEGEREMCIA,Quito,0,"Mision del cargo  Gestionar y constatar que las Sucursales a su mando se encuentren en óptimo estado, tanto los productos ofrecidos al cliente, su imagen, permisos de funcionamient…"
-Coordinador de Atención al Cliente,FUNDACION TIERRA NUEVA,Quito,0,Coordinar las actividades misionales del área de Atención al Cliente. Gestiona el recurso humano y de materiales para el correcto direccionamiento del paciente/usuario y de la info…
-Asesor Comercial,Multitrabajos.com S.A,Quito,0,Perfil   Requisitos   Conocimientos  Experiencias   Beneficios   Transporte  Beneficios de ley…
-Operador Telefónico / Teletrabajo,Talento Humano SA,Quito,0,"Importante empresa de Telemarketing, se encuentra en la búsqueda de Asesores Telefónicos para diferentes campañas, principalmente de ventas  Experiencia indispensable en call cente…"
-ASESORES COMERCIALES,Leterago del Ecuador S.A.,Guayaquil,0,"Buscamos profesionales para desempeñarse como ASESORES COMERCIALES, que estarán a cargo de la visita a nuestros clientes como farmacias y cadenas aliadas para generar la venta, así…"
-ASESOR COMERCIAL VIRUSCLEAN,Claro,Guayaquil,0,"EMPRESA DE VENTAS AL POR MAYOR Y MENOR DE ARTICULOS DE DESINFECCION Y BIOSEGURIDAD SE ENCUENTRA EN LA BUSQUEDA DE 3 ASESORES COMERCIALES EVENTUALES PARA LA LOCALIDAD DE GUAYAQUIL, …"
-EJECUTIVO I CONTROL DE TARJETA CARTERA Y CONTINGENTE,Claro,Guayaquil,0,"1. OBJETIVO DEL CARGO:   EFECTUAR EL PROCESO DE CUADRE CONTABLE DEL CATÁLOGO DE CUENTAS ASIGNADO, DE ACUERDO A LAS POLÍTICAS Y PROCEDIMIENTOS ESTABLECIDOS POR LA INSTITUCIÓN.   2. …"
-EJECUTIVO COMERCIAL AMBATO,EQUIVIDA COMPANIA DE SEGUROS S.A.,Ambato,0,Objetivo: Cumplir con las metas comerciales establecidas por la compañía ofreciendo productos que cubran las necesidades de los clientes.   Requisitos   -1 año de experiencia en la…
-ANALISTA DE SELECCION GUAYAQUIL,Serinse S.A.,Guayaquil,0,"Se encarga de gestionar todo lo concerniente al proceso de reclutamiento de todos los empleados  Establecer los requisitos de reclutamiento, gestionar los requerimientos internos y…"
-ARQUITECTO BIG DATA,Banco Pichincha,Ecuador,0,"Investigar, determinar y evaluar las soluciones tecnológicas actuales y propuestas a fin de garantizar una Arquitectura y entorno tecnológico simple, adaptable y escalable a las ne…"
-Ayudante Técnico en Telecomunicaciones [Chillán],PEOPLE GO,Chile,0,"Somos People Go, empresa al Servicio de las Personas, siempre comprometidos con la Diversidad & Inclusión en sus infinitas formas, personalidades, culturas, etnias, origen, identid…"
-PASANTE DE SEGURIDAD Y SALUD OCUPACIONAL,Adecco,Quito,0,¿Estás en búsqueda de pasantías?  Si te encuentras estudiando Ing. en Seguridad y Salud Ocupacional o Ing. Industrial y deseas iniciar tu profesión en una gran empresa multinaciona…
-ANALISTA CONTABLE,Adecco,Quito,0,"ANALISTA CONTABLE - Localidad: Quito   ¿Interesado en empoderarte en una importante empresa Multinacional de Consumo Masivo, la cual te permita fortalecer tus competencias referent…"
-PASANTE DE REGULACION,Adecco,Quito,0,"¿Estás en búsqueda de pasantías?  Si te encuentras estudiando Ing. Química o Farmacéutica y deseas iniciar tu profesión en una gran empresa multinacional, la cual te va a brindar t…"
-Vendedoresas con o sin experiencia,VERA CENTENO LEONILA ALEXANDRA,Quito,0,Descripción * Servicio al cliente.   Ventas y cobranzas.   Relaciones públicas.   Mercadotecnia. Tele-mercadeo.   Capacitación continua.   Identificación de clientes potenciales.  …
-Asistente de ventas y marketing Software B2B,Rivca,Quito,0,"Descripción * La posición tendrá a su cargo las siguientes responsabilidades:   Gestionar la venta de software SaaS dirigido a empresas industriales.   Gestionar citas, llamadas y …"
-Chofer para Guayaquil Experiencia en Empresas Retail,Optimoda,Guayaquil,0,Descripción * Experiencia de: 2-3 años   Licencia: Tipo B   Edad: 30 a 40   Sexo: Masculino   Estudios: Bachiller o carreras afines   Disponibilidad: Inmediata   Conocimientos   De…
-Coordinador Comercial de Repuestos experiencia en el sector automotriz,FOTON DEL ECUADOR,Quito,0,"Descripción * Prestigiosa empresa del sector Automotriz, requiere vincular a su equipo de trabajo a un COORDINADOR COMERCIAL DE REPUESTOS para la ciudad de Quito   Requisitos: Form…"
-Trade Marketing - Soporte Comercial,Dimprokel S.A.,Quito,0,Cargo: Jefe de Trade marketing.  Edad: desde 28 hasta 45  Experiencia: mínimo de 3 años en trade o marketing en consumo/ retail o SMK  Salario: USD 1000 mas beneficios y comisiones…
-"NECESITO UNA PERSONA 25 A 30 AÑOS MULTIFUNCIONAL: CUIDADOR NOCTURNO, CHOFER REPARTIDOR Y PRODUCCION",VELAS MAGICAS HAPPY BIRTHDAY,Guayaquil,0,"Tipo de Contratación Tiempo Completo   Descripción de la Plaza NECESITO UNA PERSONA DE 25 A 30 AÑOS MULTIFUNCIONAL PARA HACER TRABAJOS DE CUIDADOR NOCTURNO, CHOFER REPARTIDOR Y PRO…"
-bodeguero despachador de repuestos hidraulicos,HIDRONEUMATIC,Cuenca,0,"Descripción * SE REQUIERE BODEGUERO CON EXPERIENCIA PARA LOCAL DE REPUESTOS HIDRAULICOS Y AUTOMOTRICES, DESPACHOS DE REPUESTOS, INVENTARIO, CONTROL, ETIQUETADO DE PRODUCTOS, INGRES…"
-Recepcionista,TH Competencia,Quito,0,Descripción * Buscamos una Recepcionista quien será responsable de:   Atender a los clientes y personas que ingresen a las instalaciones de la empresa y dirigirlas hacia el persona…
-vendedor santo domingo,DULCES GOXUA,Quito,0,Descripción * Revisión de inventario de clientes   atención de clientes de manera correcta   revisión y recuperación de cartera   registro de entradas y salidas de clientes   análi…
-vendedor de local de repuestos hidraulicos despachos,HIDRONEUMATIC,Cuenca,0,"Descripción * HIDRONEUMATIC REQUIERE CONTRATAR VENDEDOR CON EXPERIENCIA PARA LOCAL DE REPUESTOS AUTOMOTRICES E HIDRAULICOS , ETIQUETADO DE PRODUCTO, DESPACHO DE PRODUCTOS, REVISION…"
-Asesor ventas repuestos y ferretero para provincias viajero,Hydraulic Automation S.A.,Guayaquil,0,"Descripción * Solicitamos vendedores, con experiencia en ferretería, o en venta   de repuestos con cartera de clientes. Hombre- Mujer de 25 a 35   Pro activo, dinámico, responsable…"
-Asesor ventas repuestos y ferretero para provincias viajero,Hydraulic Automation S.A.,Guayaquil,0,"Descripción * Solicitamos vendedores, con experiencia en ferretería, o en venta   de repuestos con cartera de clientes. Hombre- Mujer de 25 a 35   Pro activo, dinámico, responsable…"
-Asesor Técnico de Herramientas,Acero Comercial Ecuatoriano S.A.,Guayaquil,0,Descripción * Buscamos Asesor Técnico de Herramientas ¡Aceptas el reto!   ¿En qué consiste la posición?   Brindar soporte y apoyo técnico a los diferentes canales de ventas asesora…
-Desarrollador Web FullStack Net Core y Angular,Data360,Quito,0,"Descripción * Desarrollador Web FullStack Net Core y Angular, 1 año de contrato con facturación, Trabajo para una Multinacional con un nivel de madurez tecnológico bastante maduro.…"
-Community manager,Latino America Medialam Cia. Ltda.,Quito,0,"Descripción * ¡Te estamos buscando! ¿Disfrutas de las redes sociales? ¿Eres creativo/a, práctico/a, dinámico/a y muy competitivo/a?... entonces forma parte de nuestro equipo.   Per…"
-Asesor Comercial para realizar Ventas por Call Center Telemercadeo,TACATRAVEL COMPANY,Quito,0,Descripción * Venta de Intangibles   Ventas por Call Center   Venta de Varios Productos   Experiencia en Ventas   Experiencia en Telemercadeo   Facilidad de Palabra   Actitud Posit…
-Ejecutivo de ventas Software y tenología,Wanqara,Quito,0,Descripción * Buscamos EJECUTIVOS DE VENTA para vender de Software y Tecnología.   En este trabajo debes tener una excelente imagen y muy buena comunicación para contactar a nuestr…
-Coordinador académico Con experiencia,ITESUT,Quito,0,Descripción * Instituto necesita Coordinador Académico con experiencia en educación. Persona responsable que viva preferiblemente en el norte de Quito. Las actividades a realizar s…
-1 Motorizado y 1 Cajera con experiencia,Cacie Optical S.A.,Cuenca,0,"Descripción * Empresa requiere incorporar unMotorizado, a tiempo completo, para local en la ciudad de Cuenca Responsabilidades básicas: Distribución y entrega de productos y trámit…"
-ANALISTA FINANCIERO SENIOR /CONSUMO MASIVO,Confiteca,Quito,0,"¡Te estamos buscando!  Importante empresa de consumo masivo, se encuentra en búsqueda de:   Analista Financiero Senior   Misión del cargo:  Realizar los análisis de la información …"
-ASESORA DE VENTAS JR,Cosmobell Cia. Ltda,Guayaquil,0,Tipo de Contratación Tiempo Completo   Descripción de la Plaza Hola!  Estamos en la búsqueda de una asesora de ventas para la ciudad de Guayaquil.   ¿Qué requisitos solicitamos?   …
-asesor inmobiliario AMBATO,mayu jijon,Ambato,0,"Atencion a clientes, coordinar citas, manejo de bases de datos, cerrar ventas…"
-Guillotinero,Pantone Impresiones,Quito,0,Tipo de Contratación Medio Tiempo   Descripción de la Plaza Requerimos un guillotinero con experiencia en encuadernacion…
-EJECUTIVO DE VENTAS CON POSIBILIDAD DE ASCENSO,Pirka Stone Machala,Machala,0,"Hombre   Edades entre 25 a 35 años   Proactivo, dinamico, facilidad de palabra, QUE SEPA VENDER   Contar con movilización   Sueldo básico mas comisiones   Afiliación al IESS…"
-Dibujante sketchup. Experiencia en mobiliario,Javier Mino,Quito,0,Manejo de Sketchup y Layout con experiencia en constructividad de mobiliario.…
-Auditor Médico Guayaquil,ECUASANITAS,Guayaquil,0,Importante Empresa de Medicina Prepagada busca incorporar a su organización Auditor Médico para la ciudad de Guayaquil.   PERFIL:   Formación:   Doctores en Medicina general.    Ex…
-ASISTENTE DE CONTABILIDAD Y NÓMINA,consultingtax,Quito,0,"Tipo de Contratación Cualquiera   Descripción de la Plaza Para prestigioso Contac Center, requerimos candidatos que posean formación en contabilidad y auditoría, que certifiquen al…"
-GESTOR DE COBRANZAS,Carlos Ordonez,Quito,0,"Se nececitan gestores de cobranza freelance, que trabajen desde casa con experiencia…"
-EJECUTIVOS VENTAS DE TELEFONIA MOVIL Y PRODUCTOS TECNOLOGICOS - CUENCA,INTCOMEX DEL ECUADOR S.A.,Cuenca,0,"EJECUTIVOS VENTAS DE TELEFONIA MOVIL Y PRODUCTOS TECNOLOGICOS - CUENCA   Prestigiosa empresa multinacional, mayorista de productos de tecnología, requiere contratar 2 ejecutivo de …"
-ING. CIVIL Y ARQUITTECTO,DELHIERRO CONS,Quito,0,"Tipo de Contratación Tiempo Completo   Descripción de la Plaza ADJUNTAR CV, CEDULA, TITULO Y TODAS LAS CERTIFICACIONES CON MONTOS QUE AVALEN SU EXPERIENCIA    Residente de Obra  T…"
-INGENIERO DE CONTROL DE VERSIONES Y DEVOPS,Banco General Ruminahui,Quito,0,"Somos BGR, un Banco íntegro, transparente, comprometido contigo, tu futuro y responsable con tus necesidades   BGR nació en 1988 como respuesta a las necesidades financieras de las…"
-Vendedora Freelance,Orfa Corp,Quito,0,"Vendedoras Freelance:   Perfil de vendedora: edad 25 / 35, preferencia soltera, preferencia mujer, buena presencia, fácil relación con las personas, facilidad de mantener relacione…"
-Se busca chica buena presencia para atender local en Sangolqui,Eduardo Paucar,Sangolqui,0,Atención al cliente   Manejo de caja   Manejo de inventario…
-Coordinador de Satisfacción y Gestión de Calidad con el Cliente,Telconet,Guayaquil,0,Realizar funciones relacionadas con:  Planificación de la medición de los diferentes segmentos de clientes.  Distribuir la planificación y recursos para el personal de la división …
-IMPORTANTE CONSORCIO AUTOMOTRIZ REQUIERE,EDUARDO CANDELL,Guayaquil,0,ASESORES COMERCIALES CON O SIN EXPERIENCIA EN LA LINEA AUTOMOTRIZ…
-ING ELECTRÓNICO / MECATRÓNICO,Nestlé,Quito,0,"Snapshot de la Posición   Nestlé inspira un ambiente de trabajo que soporte el balance de trabajo y estilo de vida con un alto sentido de bienestar, comprometida con la creación de…"
-Desarrollador Web .Net,Stratus Solutions S.A,Quito,0,"En Initium Software. Estamos en la búsqueda de Desarrolladores   Senior, los objetivos para este cargo son: Analizar, diseñar, codificar, probar y documentar requerimientos funcion…"
-LINER Y CLOSER PARA SALA DE VENTAS,GRUPO NOVA,Quito,0,Tipo de Contratación Otros   Descripción de la Plaza EDAD: 30 A 35 AÑOS  HOMBRES Y MUJERES  PAGO: COMISIONES  HORARIO: A PARTIR DE LAS 14:00 HORAS  ACTIVIDAD: TURISMO  INCORPORACIO…
-COORDINADOR DE ZONA QUITO,DEGEREMCIA,Quito,0,"DEGEREMCIA es un operador de alimentos que se dedica a la producción, distribución y comercialización de alimentos preparados para el mercado nacional e internacional. Opera princi…"
-SOPORTEC SOLICITA PASANTE DE MARKETING DIGITAL,SOPORTEC,Quito,0,Tipo de Contratación Prácticas   Descripción de la Plaza Nos encontramos en la búsqueda de un pasante de Marketing Digital que se encuentre cursando los últimos semestres y tenga d…
-Asesor comercial - Santo Domingo,Banco Bolivariano,Santo Domingo de los Colorados,0,Importante Institución Financiera requiere incorporar a su equipo de trabajo un asesor comercial para laborar en la ciudad de Santo Domingo ubicada en la provincia de Santo DOmingo…
-Asesor comercial South American Language Center,PERFORMIA,Quito,0,"Instituto de Idiomas con más de 20 años en el mercado a nivel nacional, busca incorporar a su equipo de trabajo un   ASESOR COMERCIAL   En este cargo, tu principal resultado a cons…"
-VENDEDOR / AUTOVENTA CONSUMO MASIVO,Nestlé,Riobamba,0,"Snapshot de la Posición   Nestlé inspira un ambiente de trabajo que soporte el balance de trabajo y estilo de vida con un alto sentido de bienestar, comprometida con la creación de…"
-Jefe de capacitación comercial,Acromax S.A,Samborondón,0,"Tipo de Contratación Tiempo Completo   Descripción de la Plaza RESPONSABILIDAD PRINCIPAL   Planificar, ejecutar, evaluar y desarrollar programa de capacitaciones o talleres del per…"
-Ingeniero en Sistemas,COGECOMSA,Quito,0,Importante empresa del Sector Comercial desea incorporar a su equipo de trabajo un Ingeniero en Sistemas.…
-COORDINADOR DE MARKETING (QUITO),N/A,Quito,0,"Importante empresa automotriz, busca incorporar un coordinador de marketing.   Responsabilidades:   Coordinar con el equipo de mercadeo, el diseño la elaboración y pautaje de campa…"
-SUPERVISOR DE OPERACIONES CONTAC CENTER,consultingtax,Quito,0,"Tipo de Contratación Tiempo Completo   Descripción de la Plaza Buscamos personas de preferencia con formación superior, que certifiquen al menos 2 años de experiencia en niveles de…"
-Administradora de propiedad horizontal Administrador de Conjunto Habitacional,Conjunto Parque Alegre,Quito,0,Descripción * CIUDAD: QUITO   SECTOR: NORTE DE QUITO - LLANO GRANDE - CALDERÓN   EDAD: 30 A 45 AÑOS   JORNADA LABORAL: MEDIO TIEMPO   TIPO DE CONTRATO: SERVICIOS PROFESIONALES   SA…
-ASESOR DE CUMPLIMIENTO,RICHARD LEON,Guayaquil,0,MANEJO DE MOVIMIENTOS DE RUTAS - MANEJO DE INFORMACION DE COMPETENCIA DE MERCADO - CUMPLIMIENTO DE ASIGNACIONES - VISITA A CLIENTES - ACOMPAÑAMIENTO A CLIENTES - REPORTE DIARIO DE …
-ASESOR COMERCIAL,Esteban Silva,Cuenca,0,"Se busca incorporar al equipo de trabajo, ejecutivo de ventas con experiencia en:   - Consumo masivo, telecomunicaciones, puerteo, gestion telefonica   - Facilidad de palabra   - M…"
-Agente de Puntos de Venta (Counter) Guayaquil - Eventual 2 meses,DHL Express,Guayaquil,0,"Responsabilidad Principal del Cargo:   Brindar un óptimo servicio a los clientes que se acercan a un Punto de Venta y que requieren realizar envíos, entregas y recepción de documen…"
-Se solicita personal,Alexander Rivera,Quito,0,"Solo para la ciudad de Quito, mayores de edad con o sin experiencia más información al…"
-Asesor Comercial Corporativo,TECECOM,Quito,0,"Tipo de Contratación Tiempo Completo   Descripción de la Plaza Estimada Red Distribuidor autorizado de Movistar se encuentra en búsqueda de ejecutivos de venta con buena presencia,…"
-VENDEDOR AMBATO,consultingtax,Ambato,0,"Tipo de Contratación Cualquiera   Descripción de la Plaza Nuestra búsqueda se orienta a candidatos que certifiquen al menos 2 años de experiencia en la venta de productos textiles,…"
-Técnico en Ventas (freelance) Quito,Seidlaboratory Cia. Ltda.,Quito,0,"Tipo de Contratación Freelance   Descripción de la Plaza ¿Te apasionan las ventas? ¡Trabaja desde casa!   Empresa del sector de alimentos, requiere los servicios de Técnico en Vent…"
-Químico Farmacéutico (Representante Técnico),B.Braun Medical S.A.,Quito,0,"Garantizar el cumplimiento de la legislación sanitaria vigente, aplicable a productos que contengan sustancias sujetas a control y fiscalización ante las Autoridades Competentes.  …"
-CHOFER TRAILERO,ANDREA NIVELO,Guayaquil,0,"CONDUCTOR CON LICENCIA E   EXPERIENCIA MINIMA 3 ANOS   EXPERIENCIA EN DISTRIBUCION DE CARGA, RUTAS LOCALES E INTERPROVINCIALES…"
-VENDEDOR DE MOSTRADOR,DOTTIE FERNANDA CHAVEZ LEON,Cuenca,0,IMPORTANTE EMPRESA EN LA CIUDAD DE CUENCA- REQUIERE CONTRATAR   Vendedor de Mostrador   Requisitos:   -Radicar en la Ciuadad de Cuenca.   -Bachillerato concluido o carrera.   -Expe…
-ANALISTA TRANSFERENCIAS INTERNACIONALES (BACK OFFICE),Banco Internacional,Quito,0,"¿Tienes experiencia comercial en la Banca? ¡Banco Internacional te está buscando! ¡Somos ""El Mejor Banco para Trabajar""! - 2do. Lugar Great Place to Work 2018 categoría más de 500 …"
-Operador Telefónico / Teletrabajo,Corporacion Plus Wireless,Quito,0,"Tipo de Contratación Tiempo Completo   Descripción de la Plaza Importante empresa de Telemarketing, se encuentra en la búsqueda de Asesores Telefónicos para diferentes campañas, pr…"
-VENDEDOR PARA MACHALA DIVISIÓN TEXTILES,COSTURAS INTERNACIONALES,Machala,0,COSTURAS INTERNACIONALES DIVISIÓN TEXTILES   Requiere contratar   VENDEDOR PARA LA ZONA DE MACHALA   CON EXPERIENCIA EN EL AREA DE VENTAS AL POR MAYOR DE:   - TEXTILES   - CONSUMO …
-Analista de Transportes,Axionlog ecuador SAS,Guayaquil,0,Tipo de Contratación Tiempo Completo   Descripción de la Plaza Somos una empresa multinacional del sector logístico 3PL en la industria de alimentos para restaurantes de grandes pl…
-VENDEDOR / AUTOVENTA CONSUMO MASIVO,Nestlé,Santo Domingo de los Colorados,0,"Snapshot de la Posición   Nestlé inspira un ambiente de trabajo que soporte el balance de trabajo y estilo de vida con un alto sentido de bienestar, comprometida con la creación de…"
-Jefe de Ventas en Empresa de Seguros - Manta,Giovanny Lescano,Manta,0,El Jefe de Ventas será responsable de:…
-Asesor Comercial,Martha Aguayo,Portoviejo,0,SALARIO GARANTIZADO MÁS BONIFICACIONES.   CAPACITACIONES CONSTANTES POR ÁREAS.   - Experiencia previa en el cargo o a fines   - Profesional o estudiante en últimos semestres   - Co…
-CAJERO/A,HILLARY RESORT,Arenillas,0,PERFIL:   Sexo: Indistinto   Estado Civil: Indistinto   Reporte Directo: Supervisor de Entretenimiento   Ubicación del puesto de trabajo:Arenillas - Prov. El Oro   FORMACIÓN ACADÉM…
-Ayudante de Bodega - Portoviejo,Telconet,Portoviejo,0,Realizar funciones relacionadas con:  Receptar solicitud para identificar los materiales y equipos en stock que han sido solicitados para provincias o personal interno.  Generar co…
-ING. CIVIL TOPOGRAFO,DELHIERRO CONS,Quito,0,"Tipo de Contratación Tiempo Completo   Descripción de la Plaza • TOPOGRAFO  ADJUNTAR CEDULA, TITULO Y TODAS LAS CERTFICACIONES CON MONTOS QUE AVALE SU EXPERIENCIA   Topógrafo  Títu…"
-ASESOR DE NEGOCIOS JUNIOR (MANTA),BANCO D-MIRO,Manta,0,"Requisitos:   Experiencia en Instituciones Financieras, de preferencia en micro- crédito o en ventas de productos de consumo masivo.  Dispuestos a trabajar en zonas urbanas y rural…"
-PARA LA CIUDAD DE MACHALA SE CONTRATAN EJECUTIVOS COMERCIALES,TVCABLE,Machala,0,PRESTIGIOSA EMPRESA QUE COMERCIALIZA SERVICIOS DE TELECOMUNICACIONES A NIVEL NACIONAL REQUIERE CONTRATAR EN LA CIUDAD DE MACHALA   EJECUTIVOS DE VENTAS CON EXPERIENCIA EN VENTAS DE…
-Bodeguero,Seidlaboratory Cia. Ltda.,Quito,0,"Tipo de Contratación Tiempo Completo   Descripción de la Plaza ¡Te invitamos a formar parte de nuestro equipo de trabajo!  Empresa del sector de alimentos, quiere incorporar a su e…"
-VENDEDOR / AUTOVENTA CONSUMO MASIVO,Nestlé,Quevedo,0,"Snapshot de la Posición   Nestlé inspira un ambiente de trabajo que soporte el balance de trabajo y estilo de vida con un alto sentido de bienestar, comprometida con la creación de…"
-Jefe de Marketing,Jefe Marketing,Quito,0,"Empresa de construcción e inmobiliaria en, busca incorporar a su equipo de trabajo un PROFESIONAL EN MARKETING quien deberá cumplir con el siguiente perfil:   PERFIL PROFESIONAL:  …"
-Pasante Seguridad Industrial Guayaquil,ECUASANITAS,Guayaquil,0,Ecuasanitas S.A importante Empresa de Medicina Prepagada busca incorporar a su organización Pasante de Seguridad Industrial para la ciudad de Guayaquil.   Formación:   Estudiante d…
-Consultor de Ventas,Veronica Espinoza,Cuenca,0,"El postulante debe tener experiencia comprobada en ventas de intangibles, además de mostrar suficiente habilidad en:    Capacidad de Cierres     Facilidad de Palabra     Adaptación…"
-ASESOR COMERCIAL,jaime del castillo,Sangolqui,0,"Comercializar los productos de la empresa, brindando una atención de calidad a los clientes de manera que se creen lazos entre el cliente y la compañia para generar nuevos proyecto…"
-Ejecutivo de Negociacion,Angel Andres Mantilla Hormaza,Guayaquil,0,"Encargado de asesorar, negociar y practicar un cierre efectivo con los clientes de manera que se mantener una buena relación con ellos.…"
-IMPULSADORA MANTA Y PORTOVIEJO,CARVAGU S.A.,Manta,0,IMPORTANTE LABORATORIO FARMACÉUTICO BUSCA IMPULSADORA PARA MANTA Y PORTOVIEJO   Formación Académica: Bachiller o estudios superiores.   Experiencia mínima: 1 año en cargos similare…
-ANALISTA DE COSTOS - Ciudad de Quito,KFC,Quito,0,Importante multinacional de Alimentos desea incorporar a su equipo de trabajo para la ciudad de Quito un:   ANALISTA DE COSTOS- Planta de Uyumbicho   FUNCIONES   ·Análisis y cálcul…
-OFICIAL DE CUMPLIMIENTO,FONDO DE CESANTIA,Guayaquil,0,"OBJETIVO DEL CARGO   Será el encargado de vigilar y asegurar que estén ejecutando correctamente las políticas, procesos y procedimientos de administración integral de riesgos; y, d…"
-TECNICO CAPILAR,JOSE SANCHEZ,Cuenca,0,"TECNICO CAPILAR, CON CONOCIMIENTO EN EL MISMO, ATENCION AL CLIENTE, AREA AFINES, CONOCIMIENTO DEL MERCADO DE PRODUCTOS CAPILARES, VENTA…"
-ANALISTA DE COMPRAS,MILENA ROBLES,Guayaquil,0,"REQUISITO   Título de tercer nivel en carreras administrativas, comerciales o industriales.   1 a 2 años de experiencia en cargos similares.   Tener Vehículo.   COMPETENCIAS   Capa…"
-ING. CIVIL CONSTRUCTOR VIAS Y CALLES URBANAS,DELHIERRO CONS,Quito,0,Tipo de Contratación Tiempo Completo   Descripción de la Plaza • SUPERINTENDENTE Y ESIDENTE DE OBRA    Superintendente de Obra  Título: Ing. Civil  Experiencia: Obras de asfaltado…
-Impulsadora - Quito,D´MUJERES S.A.,Quito,0,"Empresa dedicada a la comercialización de productos de belleza, está en búsqueda de una IMPULSADORA, para la ciudad de Quito, con el siguiente perfil:   Género:Indistinto   Edad:18…"
-Asistente Administrativa / Digitadora telecomunicaciones,Maria Cevallos,Guayaquil,0,Asistente Administrativa / Digitadora telecomunicaciones   Experiencia minima 1 año   Serán responsables de cumplir con ingresos de ventas   Estudios culminados de Bachillerato.   …
-Médico Veterinario/a,Katherine Chavez,Guayaquil,0,Experiencia en clínica menor   Esterilizaciones   Sueldo fijo más comisiones   Buen ambiente laboral…
-Pasante Administración,Estrategias & Mercado,Guayaquil,0,"Importante Empresa se encuentra en la búsqueda de pasante que cumplan con el siguiente perfil:   Requisitos:   ·Estudiante de últimos semestres en Marketing, administración de Empr…"
-VENDEDORES DE TELECOMUNICACIONES,Maria Cevallos,Guayaquil,0,VENDEDORES DE TELECOMUNICACIONES   Experiencia minima 1 año   Serán responsables de cumplir con los presupuestos de ventas mensuales asignados   Estudios culminados de Bachillerato…
-VENDEDORES/RAS,Sebastian Nunez,Quito,0,"se requiere de manera urgente vendedores/ras, para los sectores petroleros, construcción, eléctrico, y telecomunicaciones, en la ciudad de Quito, indispensable experiencia minima d…"
-Vendedores para Cobertura Tienda a Tienda,Eduardo Villacis,Quito,0,"Empresa de Distribución en el sector de consumo masivo desea incorporar a su staff, Vendedores de Cobertura en el sector Quito Norte   Horario: 5 días de trabajo a la semana, respo…"
-Desarrollador Web,MagnusMas,Quito,0,Descripción * Responsabilidades:    Construir y mejorar productos web.     Participar en todas las fases del desarrollo de los proyectos. Se le asigna un rol en particular dentro d…
-VENTAS DIGITALES,PAOLA ANABELLA FARIAS ALVAREZ,Guayaquil,0,"SOLICITAMOS PERSONAL CON GANAS DE TRABAJAR DESDE CASA:  ESTUDIANTES, AMAS DE CASA, PROFESIONALES Y OTROS    GENERESE $800 DOLARES A MAS   REQUISITOS:   FUNCIONES:   BENEFICIOS:…"
-ABOGADO DE COBRANZAS,Celyasa,Cuenca,0,"Corporación Ecuatoriana de Licores y Alimentos S.A., nace en 1983 y desde entonces está dedicada a la distribución masiva bebidas alcoholicas y no alcoholicas a nivel nacional trat…"
-Líder Contable,Comercial,Guayaquil,0,"ANALISTA O LIDER CONTABLE FINANCIERO - EXPERIENCIA SAP BUSSINES ONE   Compañía transacional en Centro y Suramérica, que sirve como asociado de negocios para asegurar la calidad y p…"
-DOCENTE DE MATEMATICA,MARITZA OCAMPO,Loja,0,"SE SOLICITA DOCENTE EN EL AREA DE DOMINIO MATEMATICO CON EXPERIENCIA, PARA LA CIUDAD DE LOJA.   INTERESADOS CUMINCARSE AL…"
-Vendedores para centros comerciales (Manta),GLOW BEAUTY BAR,Manta,0,"Tipo de Contratación Tiempo Completo   Descripción de la Plaza Empresa líder en el mercado de planchas para el cabello 100% cerámica, busca:   Vendedores con disponibilidad para tr…"
-DOCENTES PARA BÁSICA ELEMENTAL MAESTRA DE GRADO,Tareas dirigidas y acomoanamiento academico,Quito,0,"Requiero docente para básica elemental con conocimiento en todas las asignaturas de grado, con titulo universitario en CIENCIAS DE LA EDUCACIÓN MENCIÓN BÁSICA.   DOCENTES QUE VIVAN…"
-Arquitecto & Desarrollador de Soluciones SOA,Automotores y Anexos,Quito,0,"Prestigiosa empresa del sector Automotriz, requiere vincular a su equipo de trabajo a un Arquitecto & Desarrollador de Soluciones SOA para la ciudad de Quito   Requisitos: Superior…"
-Ing de Monitoreo BOC,N/A,Quito,0,"Nos encontramos en búsqueda de un Ing. de Monitoreo con el siguiente perfil:   Educación Formal: Egresado /Tecnólogo/ Licenciado / Ingeniero Electrónico o en Telecomunicaciones, Re…"
-Marketing Digital Nivel medio alto de ingles,N/A,Quito,0,"Descripción * Conocimientos de Marketing Digital y nuevas tecnologías   Conocimientos Básicos de programación (HTML, PHP, .CSS, .JS, MySQL, Wordpress)   Desarrollo Web   Diseño Grá…"
-Abogadoa Senior,N/A,Guayaquil,0,Descripción * Se requiere para contratación inmediata Abogado/a con mínimo 2 años de experiencia en el ejercicio profesional en materias indistintas. Se requiere conocimiento de de…
-Vendedor con experiencia en consumo masivo con movilización propia,N/A,Loja,0,Descripción * -Atiende las necesidades de clientes de acuerdo a la ruta   establecida por el Supervisor de Ventas   -Maneja cartera de   clientes   - Otorga línea de crédito a los …
-ASISTENTE CONTABLE,N/A,Quito,0,"Acerca del anuncio    Realizar su trabajo en forma eficiente, responsable y profesional, cumpliendo las políticas establecidas por su empleador.  Guardar estrictamente las normas d…"
-AGENTE AUTORIZADO,N/A,Guayaquil,0,Acerca del anuncio   Conseguir citas con clientes mediante ventas puerta a puerta y telemercadeo Realizar visitas constantes a los clientes   Beneficios:   Generar ingresos adicion…
-RECAUDADOR PARA CANTON DAULE,N/A,Daule,0,Acerca del anuncio   Funciones Principales:   Planifica la ruta de Recaudación para Optimizar el tiempo  Realizar la Recaudación  Revisar carteras de los clientes    Experiencia: 1…
-"BlueCard, Empresa de Medicina Prepagada busca ASESOR COMERCIAL",N/A,Quito,0,"Acerca del anuncio   Prestigiosa empresa del sector Asegurador, requiere vincular a su equipo de trabajo a un Asesor Comercial para la ciudad de Quito.   Requisitos: Formación Supe…"
-Jefe de Logistica Experiencia indispensableDisponibilidad Horarios,N/A,Cuenca,0,Descripción * -Estructuraciòn de Rutas   -Vigila que los pedidos lleguen a tiempo a los clientes.   -Controla que la flota de vehículos esté en buen estado vigilando que se realice…
-ASISTENTE DE INVENTARIOS,N/A,Quito,0,"Te invitamos a formar parte de una prestigiosa industria farmacéutica orgullosamente ecuatoriana, ubicada al norte de la ciudad de Quito.   Nos encontramos en la búsqueda de ASISTE…"
-Promotor/a,N/A,Guayaquil,0,Objetivo del Cargo.   Promover y vender tarjetas de crédito directo e incentivar la compra.   Funciones.   Lograr las metas de captación y meta de primera compra.  Prospectar nuevo…
-MECÁNICO DE MÁQUINA SELLADORA AL VACÍO,N/A,Guayaquil,0,Importante Empresa de la Industria Alimenticia se encuentra en la búsqueda de un Mecánico de Máquinas Selladora al Vacío:   Perfil.-   Nivel de Educación.-  Bachiller en mecánica i…
-Analista de Comercio Exterior y Aduanas,N/A,Quito,0,"Importante Empresa Multinacional (Sector Florícola) desea incorporar a su staff de trabajo, un Analista de Comercio Exterior para la ciudad de Quito.   Perfil    Estudios: Tercer n…"
-TELEVENDEDORES - CONTAC CENTER,N/A,Guayaquil,0,"Edad: 20 a 35 años   Educación: Tecnólogo, egresado o titulado en carreras administrativas, Ingeniera de Ventas, Marketing, o carreras afines.   Conocimiento en: Utilitarios Micros…"
-MERCADERISTA - IMPULSADORA PARA MACHALA,N/A,Machala,0,Se solicita Mercaderista - Impulsadora con experiencia en canal de autoservicios y farmacéutico.   El trabajo es bajo presión de lunes a sabado.   El aspirante debe de cumplir con …
-Analista de Nómina Bilingüe,N/A,Quito,0,Conocimientos:   Calculo de horas extras.   Manejar pagina del IESS Y MRL (avisos de entrada/salida y registro de contratos).   Cuadre de décimos.   Manejo de nómina de mínimo 100 …
-Psicólogo/a Clínico/a - Ambato,N/A,Ambato,0,Importante empresa de salud desea incorporar a su equipo de trabajo un/a PSICÓLOGO(A) CLÍNICO(A) él/la deberán cumplir el sigueinte perfil:  Título de tercer nivel en Psicología Cl…
-Trabajadora Social - Ambato Urgente,N/A,Ambato,0,"Empresa médica, requiere contratar un/una Trabajadora Social, para Ambato, quien deberá cumplir con los siguientes requisitos:   Título de tercer nivel de Licenciada en Trabajo Soc…"
-ADMINISTRADOR TURÍSTICO PARA LA CIUDAD DE CUENCA,N/A,Cuenca,0,IMPORTANTE EMPRESA   Requiere contratar los servicios de:   ADMINISTRADOR TURISTICO PARA LA CIUDAD DE CUENCA   Que reúna los siguientes requisitos:   ·Título en Ing. Marketing/Ing.…
-Vendedor de Centro Comercial - Ambato,N/A,Ambato,0,"Empresa lider en venta de ropa de marca internacional, ropa, calzado y bisuteria con mas de 20 años en el mercado nacional, con sucursales en las ciudades del pais.   Se encuentra …"
-JEFE DE MANTENIMIENTO,N/A,Cuenca,0,Empresa productora   Requiere Contratar   JEFE DE MANTENIMIENTO   CONOCIMIENTO   Manejo de equipos de refrigeración   Mecánica y electricidad Industrial   Maquinaria y calibración …
-EJECUTIVO COMERCIAL ONLINE,N/A,Guayaquil,0,"¿Te gustan las ventas? ¿Eres capaz de ganar lo que te propongas? ¿Tienes facilidad para llegar a las personas? Si tus respuestas son positivas y quieres un cambio, ¡esta experienci…"
-Trabajo Social,N/A,Guayaquil,0,¿Qué necesitas para participar?   Estudios:Profesional titulado como Licenciado en Trabajo Social   - Manejo de excel avanzado.   - Habilidades de servicio al cliente.   ACTIVIDADE…
-LIDER DE CALIDAD - CALL CENTER,N/A,Guayaquil,0,Responsable por supervisar la gestión y metas de los Ejecutivos de Televentas a fin de monitorear y asegurar el ciclo completo de acuerdo a los parámetros establecidos por la empre…
-"ASISTENTE DE SUSCRIPCIÓN, QUITO - COPIA",N/A,Quito,0,"Desde la fundación de BMI Financial Group en 1973, el enfoque ha sido un proceso continuo de crecimiento y expansión. Llegamos a Ecuador en 1997 para estar siempre junto a ti.   VI…"
-Técnico de Mantenimiento de Instalaciones Centralizadas GLP (GUAYAQUIL),N/A,Guayaquil,0,"Importante Empresa Multinacional de comercialización de derivados de petróleo, desea incorporar a su equipo de trabajo un Técnico de Mantenimiento de Instalaciones Centralizadas GL…"
-Bodeguero,N/A,Guayaquil,0,Bodeguero   REQUISITOS   Edad: 25 a 35años   Educación. - Bachiller - Técnico en Electricidad Industrial.   Experiencia. - Mínimo 1 años de experiencia en puestos similares en empr…
-Multinacional busca Desarrollador Senior,N/A,Guayaquil,0,"Centro Tecnológico de organización educativa internacional requiere incorporar a su staff a Ejecutivos de Proyecto, quienes integrarán el equipo del Centro Tecnológico en Ecuador. …"
-Jefe de Bodega,N/A,Quito,0,"Importante Empresa de retail se encuentra en la búsqueda de un Jefe de Bodega para la ciudad de Quito, quien deberá cumplir el siguiente perfil.   Misión.   Dirigir, planificar, or…"
-CHOFER LICENCIA TIPO D,N/A,Quito,0,Tipo de Contratación Medio Tiempo   Descripción de la Plaza REQUISITOS:  Bachiller  Con experiencia comprobada mínima de 1 año en camiones promedio de 5 a 15 toneladas.  Conocimien…
-"Responsable de Seguridad, Salud y Ambiente (Quito)",N/A,Quito,0,"Importante Empresa Multinacional de comercialización de derivados de petróleo (GLP), desea incorporar a su equipo de trabajo un Responsable de Seguridad, Salud y Ambiente, responsa…"
-Supervisor de Instaladores de dispensadores Sanitarios,N/A,Guayaquil,0,Reconocida empresa se encuentra en la Búsqueda de un Supervisor Técnico con experiencia manejando personal que realice instalaciones de dispensadores sanitarios   Requisitos:  -Dis…
-ANALISTA CONTABLE - QUITO,N/A,Quito,0,"¿Interesado en empoderarte en una importante empresa Multinacional de Consumo Masivo, la cual te permita fortalecer tus competencias referente a liderazgo, solución de conflictos, …"
-TRABAJE DESDE CASA,GRUPO JMC E.I.R.L.,Guayas,0,"TELETRABAJO, TRABAJE DESDE CASA, ESTUDIANTES, AMAS DE CASA Y PROFESIONALES Y OTROS    GENERESE $1,000 DOLARES M A MAS   REQUISITOS:   CONOCIMIENTO EN REDES SOCIALES  CON O SIN EXPE…"
-Técnico Comercial (GUAYAQUIL),N/A,Guayaquil,0,"Importante Empresa Multinacional de comercialización de derivados de petróleo, desea incorporar a su equipo de trabajo un Técnico Comercial, responsable de promover, desarrollar y …"
-"SUSCRIPTOR, QUITO - COPIA",N/A,Quito,0,"Desde la fundación de BMI Financial Group en 1973, el enfoque ha sido un proceso continuo de crecimiento y expansión. Llegamos a Ecuador en 1997 para estar siempre junto a ti.   VI…"
-Pasante de Marketing,N/A,Quito,0,"MISIÓN   Satisfacer las necesidades de los clientes con productos de calidad al mejor precio y con el mejor servicio; generando fuentes de trabajo, crecimiento de nuestros colabora…"
-Jefe de Bodega,N/A,Cuenca,0,Requisitos:   - Ingeniero comercial o afines   - Experiencia mínima de 2 años en el cargo   Competencias:   - Liderazgo   - Orientación a los resultados   - Minuciosidad…
-ASISTENTE SERVICIO AL CLIENTE Y RRHH,N/A,Quito,0,"Misión del puesto: Atender y ejecutar requerimientos de la Gerencia General, de clientes internos y externos siguiendo los lineamientos y procedimientos de la empresa para solventa…"
-COORDINADOR DE AMBIENTE,N/A,Quito,0,Importante empresa multinacional se encuentra en la búsqueda de un COORDINADOR DE AMBIENTE.   Misión del puesto:   Garantizar el cumplimiento de las obligaciones contractuales y le…
-Obrero de Patio (Estibadores) / QUITO,N/A,Quito,0,"Importante Multinacional de comercialización de derivados de petróleo, desea incorporar a su equipo de trabajo Obreros de Patio (Estibadores), quienes serán responsables de descarg…"
-EJECUTIVO DE COBRANZAS,N/A,Guayaquil,0,"Institución educativa con proyección internacional orientada a la formación de posgrados, requiere incorporar a su staff a un Ejecutivo de Cobranzas, quien se encargará de contacta…"
-Auxiliar Interno de pedidos a domicilio - UIO,N/A,Quito,0,"Importante empresa de consumo masivo se encuentra en la búsqueda de AUXILIARES INTERNOS DE PEDIDOS A DOMICILIO para la ciudad de Quito, los postulantes deben cumplir los siguientes…"
-OPERARIO DE PRODUCCIÓN (CORTE) - COPIA,N/A,Machachi,0,Somos una gran familia dedicada por más 20 años al procesamiento y exportación de vegetales congelados.   Estamos buscando un Operario de Producción con la misión de transformar la…
-Asesor Comercial Farma,N/A,Ambato,0,Importante compañía multinacional distribuidora de productos farmaceúticos se encuentra en la búsqueda de un Ejecutivo Comercial Farma para la ciudad de Ambato.   Responsabilidades…
-Auxiliar de Visual Merchandising,N/A,Guayaquil,0,"Objetivo del Cargo.   Ayudar en la implementación de exhibiciones y colocación de material POP en los almacenes para la correcta ubicación espacial de productos, diseño, decoración…"
-EMPRESA DE SERVICIOS BUSCA TECNICO CON EXPERIENCIA EN USO DE PULIDORAS O AMOLADORAS,GONZALO LOPEZ,Ecuador,0,Trabajo de preparación de superficies y aplicación de revestimientos…
-Equipamiento de carpintería en vivienda,Maderas Carpinteria,Nobol,0,Tipo de Contratación Tiempo Completo   Descripción de la Plaza Necesitamos contratar a una persona proactiva con conocimientos y experiencia en carpintería como la instalación de m…
-ELÉCTRICO DE PLANTA,Grupo Superior SA,Ecuador,0,Importante empresa de consumo masivo (alimentos) se encuentra en la búsqueda de un ELÉCTRICO DE PLANTA para el área de Mantenimiento que cumpla con lo siguiente:   Requisitos:   - …
-Inspector de Calidad,Indurama,Cuenca,1,Misión:   Ejecutar la inspección técnica y revisión de los procesos críticos de manufactura para asegurar la calidad de los productos.   Funciones:   Cumplir con los indicadores de…
-Recaudador Motorizado (GYE),Casa Del Ruliman,Guayaquil,1,"Buscamos Recaudador motorizado, responsable del cobro y retiro de valores en Industrias y Clientes medianos. Dar soporte en otras actividades del área, como realizar depositos u ot…"
-Gerente de Cuenta Canal Distribución,Cargill,Machala,1,"¿Quiere construir un futuro más sólido, sustentable y cultivar tu carrera? Súmate al equipo global de Cargill que cuenta con 160,000 empleados que están comprometidos en usar maner…"
-DESARROLLADOR ESTRATÉGICO TARJETA DE CRÉDITO,Claro,Guayaquil,1,"OBJETIVO DEL CARGO:   DESARROLLAR NUEVOS O MODIFICAR EXISTENTES SISTEMAS DE INFORMACIÓN DE TARJETA DE CRÉDITO Y PREPAGO DEL BANCO, CON EL OBJETO DE PROPORCIONAR LAS HERRAMIENTAS Y …"
-Inspector de Calidad,Indurama,Cuenca,1,Descripción del puesto   Misión:   Ejecutar la inspección técnica y revisión de los procesos críticos de manufactura para asegurar la calidad de los productos.    Funciones:   Cump…
-ASESOR COMERCIAL SANTO DOMINGO,ChevyPlan,Santo Domingo de los Colorados,1,"ChevyPlan, como miembro de Pacto Global, realiza sus procesos de selección basados en las capacidades técnicas y competencias requeridas para cada posición, sin hacer distinción al…"
-AGENTE DE SERVICIO,Claro,Guayaquil,1,"MISIÓN DEL CARGO : DAR SERVICIO Y ASESORAMIENTO EN MANEJO DE COMBUSTIBLES DIRECTAMENTE A LOS CLIENTES , OFRECIENDO UN SERVICIO DE PRIMERA Y CUMPLIENDO LAS NORMAS Y POLÍTICAS DE LA …"
-PASANTE DE CREDITO Y COBRANZAS,Sika,Guayaquil,1,Id. de solicitud asignado automáticamente   8834BR   Será un reto para ti   - Brindar soporte en la gestión administrativa del departamento de crédito y cobranzas relacionado a la …
-Gerente de Cuenta Canal Distribución,Cargill,Machala,1,"¿Quiere construir un futuro más sólido, sustentable y cultivar tu carrera? Súmate al equipo global de Cargill que cuenta con 160,000 empleados que están comprometidos en usar maner…"
-Oficial de Crédito y Caja para la ciudad de La Libertad,CrecosCorp,La Libertad,1,Responsable de realizar las labores administrativas y de control del área de caja y crédito y en los puntos de venta de créditos economicos con la finalidad de llegar a nuevos clie…
-Gerente de Cuenta Canal Distribución,Cargill,Machala,1,"¿Quiere construir un futuro más sólido, sustentable y cultivar tu carrera? Súmate al equipo global de Cargill que cuenta con 160,000 empleados que están comprometidos en usar maner…"
-PLANIFICADOR DE PRODUCCIÓN UIO,Claro,Quito,1,Establecer los volúmenes de producción de materiales de acuerdo con los niveles de inventario deseados y las capacidades disponibles a nivel nacional.…
-Ayudante de Instalación Masiva,PUNTONET S.A.,Guayaquil,1,"Propósito:  Realiza instalaciones de internet en el segmento masivo.  Funciones:  · Controlar e informar el stock de equipos en vehículo.  · Retirar los equipos de bodega, verifica…"
-INGENIERO ARQUITECTO EN SEGURIDAD DE REDES,Telconet,Guayaquil,1,"Realizar funciones relacionadas con:   Diseñar arquitecturas de red con buenas prácticas de seguridad en entornos empresariales, orientados a servicios gestionados, DataCenters, IS…"
-Vendedores de Cobertura TAT,Industrias Ales,Manta,1,"Misión:   Comercializar productos de la compañía, realizando una efectiva gestión de ventas y cobranzas, logrando establecer y mantener buenas relaciones comerciales con clientes y…"
-Vaccines SBA,Pfizer,Quito,1,"Descripción del puesto:   Apoya y coordina el desarrollo, implementación y seguimiento del plan estratégico del portafolio alineado con el Gerente de Producto. Genera reportes anal…"
-ASESOR COMERCIAL Y VENTAS QUITO,Claro,Quito,1,PRESTIGIOSA EMPRESA DE MARCAS DE ÉLITE DE BEBIDAS ALCOHÓLICAS REQUIERE CONTRATAR ASESORES COMERCIALES PARA SUCURSALES.   REQUISITOS   DISPONIBILIDAD DE HORARIOS TIPO CENTRO COMERCI…
-Jefe de Consola,Deloitte,Guayaquil,1,"Formación académica: Profesional en Ingeniería de Sistemas, Licenciatura en Seguridad Industrial, Ingeniería en Eléctrico, Ingeniería en Electrónico o carreras a fines  Experiencia…"
-ASESOR TELEFÓNICO / TELETRABAJO,Talento Humano SA,Quito,1,"Importante empresa de Telemarketing, se encuentra en la búsqueda de Asesores Telefónicos para diferentes campañas, principalmente de ventas  Experiencia indispensable en call cente…"
-PASANTE DE LABORATORIO,Sika,Guayaquil,1,"Id. de solicitud asignado automáticamente   8986BR   Será un reto para ti    Apoyar en el proceso de creación, formulación y creación de nuestros productos  Participar en proyectos…"
-PASANTE DE COMUNICACIÓN,Claro,Quito,1,"ACERCA DE KRUGER CORPORATION  HABILITAMOS LA 4TA REVOLUCIÓN INDUSTRIAL, A TRAVÉS DE TRANSFORMACIÓN DIGITAL QUE IMPLEMENTA TECNOLOGÍAS DISRUPTIVAS EN LAS EMPRESAS.  .   PERFIL REQUE…"
-CONSULTOR SENIOR COMERCIAL Y DESARROLLO DE NEGOCIOS,Claro,Quito,1,IMPORTANTE GRUPO CORPORATIVO CON MÁS DE 40 AÑOS DE ESTABILIDAD A NIVEL NACIONAL E INTERNACIONAL DESEA CONTRATAR UN CONSULTOR COMERCIAL SENIOR RESPONSABLE TAMBIÉN DEL ÁREA DE DESARR…
-EC - Pasante Servicios Digitales,Telefónica,Quito,1,"LUGAR DE TRABAJO: Quito   DESCRIPCION DE LA EMPRESA:  Telefónica – Movistar, empresa líder en telefonía celular en Centro América, Latinoamérica, y una de las más grandes del secto…"
-ANALISTA DE NÓMINA DE GUAYAQUIL,Serinse S.A.,Ecuador,1,"BUSCAMOS UNA PERSONA ANALITICA, ORGANIZADA Y ENFOCADA EN EL RESULTADOS  Manejo de SUT, SUPA, IESS  Conocimiento de Logislación laboral  Conocimiento general de talento humano  Mane…"
-ANALISTA DE BI QUITO,Serinse S.A.,Ecuador,1,"Se ocupa de la identificación de los cambios en las ventas, gastos e ingresos de una compañía.  Además, es el responsable de asesorar a la dirección de una empresa en la toma de de…"
-GERENTE ADMINISTRATIVO FINANCIERO - QUITO,Manpower,Quito,2,FUNCIONES    Planificar y ejecutar los programas de trabajo de la sucursal.  Dirigir y analizar los datos de información financiera.  Controlar y planificar las estrategias de cost…
-Ing de Monitoreo BOC,Telconet,Quito,2,"Nos encontramos en búsqueda de un Ing. de Monitoreo con el siguiente perfil:  Educación Formal: Egresado /Tecnólogo/ Licenciado / Ingeniero Electrónico o en Telecomunicaciones, Red…"
-EJECUTIVO DE VENTAS QUITO ENERO 2021,Colineal,Quito,2,MISIÓN DEL CARGO   PLANIFICAR Y COORDINAR LAS VENTAS DE LA EMPRESA.   ACTIVIDADES PRINCIPALES:   VENDER NUESTROS PRODUCTOS VÍA TELEFÓNICAMENTE   ATENDER LOS REQUERIMIENTOS DE LOS C…
-EJECUTIVO DE VENTAS QUITO ENERO 2021,Claro,Quito,2,MISIÓN DEL CARGO   PLANIFICAR Y COORDINAR LAS VENTAS DE LA EMPRESA.   ACTIVIDADES PRINCIPALES:   VENDER NUESTROS PRODUCTOS VÍA TELEFÓNICAMENTE   ATENDER LOS REQUERIMIENTOS DE LOS C…
-Jefe de Recursos Humanos,Deloitte,Ambato,2,"Planificar, dirigir y evaluar la operatividad del área, realizando tareas como reclutamiento, capacitación y desarrollo, desempeño, relaciones laborales y registros de los empleado…"
-ESPECIALISTA FORMS Y REPORTS,Claro,Quito,2,REQUISITO ACADÉMICO:    GRADUADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN O SIMILAR.  EXPERIENCIA:    MÍNIMA DE 3 AÑOS EN POSICIONES SIMILARES. DESEABLE SECTOR BANCARIO.  OTROS REQ…
-Mecánicos II,Naturisa S.A.,Guayaquil,0,"MECANICO II -Experiencia en Reparación y Mantenimiento de Motos, Motores de Aireadores (Changfa, Ecuasino, Jiang..."
-Ingeniero Eléctrico,Naturisa S.A.,Guayaquil,0,Vacante para la ciudad de Guayaquil Requerimos contratar Ingeniero Eléctrico para el cargo de Jefe de Grupo Eléctrico....
-Ejecutivo Comercial,Solución Legal,Guayaquil,0,Se necesita personal para ventas en calle de servicios de telecomunicaciones se ofrece sueldo mas un excelente paquete...
-Analista programación,Empresa Software Quito SisConti S.A,Quito,1,Conocimiento en bases de datos  Porcedimientos almacenados Funciones Optimización y normalización de base de datos...
-Coordinador de Información Logística y S OP,Italimentos Cía. Ltda.,Cuenca,1,Actividades Principales: 1 Planificar pronóstico base país y regionales por sku 2 Consolidar building blocks de...
-Asistente para  Atención al Paciente. Plan de carrera,"",Quito,1,"Importante empresa del sector salud, desea incorporar a su equipo de trabajo un profesional para el cargo de..."
-Recepcionista para  Atención al Paciente incorporación inmediata,"",Francisco de Orellana,1,"Importante empresa del sector salud, desea incorporar a su equipo de trabajo un profesional para el cargo de..."
-Profesional Emergencias médicas Prehospitalaria,"",Francisco de Orellana,1,"Importante laboratorio clínico solicita personal para el área de Flebotomía con excelente presencia, actitud proactiva..."
-"Laboratorista o Bioquímico Clínico, con experiencia","",Francisco de Orellana,1,"Importante empresa del sector requiere contratar Licenciados en Laboratorio Clínico y/o Bioquímico Clínico,con..."
-Administrador de Local Comercial,"",Guayaquil,1,Se busca candidato/a para vacante para la administración de local comercial. Tareas - Apertura y cierre del local...
-Profesional de cuarto nivel en Biologia molecular,"",Quito,1,"Importante Laboratorio con presencia a Nivel Nacional, busca profesionales con título de cuarto nivel en Biología..."
-Médico Ocupacional con disponibilidad tiempo completo.,"",Quito,1,Importante laboratorio clínico solicita profesional Médico general especializado en Medicina Ocupacional  Principales...
-"Flebotomísta Profesionales, Lic. en enfermeria, Prehospitalarios","",Quito,1,"Importante laboratorio clínico solicita personal para el área Flebotomía para turno COMPLETO con excelente presencia,..."
-Ing. CPA. Asistente contable con experiencia en cobranzas,"",Quito,1,"Importante empresa del sector salud, busca incorporar profesional en el área de contabilidad con experienciaprevia:..."
-Médico Ocupacional con experiencia comprobable para el Coca,"",Quito,1,Importante laboratorio clínico solicita profesional Médico general especializado en Medicina Ocupacional  Principales...
-Electricista,Naturisa S.A.,Guayaquil,1,"Requerimos contratar Electricista para Camaronera Experiencia Instalación de media, baja y alta tensión Conocimiento..."
-Mecánico Electrónico,Naturisa S.A.,Guayaquil,1,Mecánico Electrónico / Equipo Pesado y Vehicular Experiencia Reparación de motores equipo pesado Sistema Hidráulico...
-Operador de Equipo Industrial,"",Babahoyo,1,"Importante contratar un Operador de equipo industrial, que cuente con los siguientes Requisitos y Competencias: ..."
-Ejecutivo de Inversiones,"",Pastaza,1,Realizar la captación de Depósitos a Plazo Fijo de acuerdo a su portafolio de inversiones y rentabilidad de la...
-Ing. Talento Humano con experiencia en,"",Quito,1,Funciones: Ejecutar actividades de apoyo en el desarrollo de la Gestión del Talento Humano a través de la colaboración...
-Promotor/a,Lucky Ecuador,Loja,1,PERFIL REQUERIDO: Tener como mínimo6 meses de experiencia  en ventas o atención al cliente en Retail Disponibilidad de...
-Operador de Equipo Industrial,"",Quevedo,1,"¡¡ESTA ES TU OPORTUNIDAD!! Requisitos: 	Personas de 23 - 38 años. 	Técnicos universitarios en 3° nivel, Mecánica..."
-Asesor Comercial,AUTECNA PARTS CIA LTDA,Quito,1,EXPERIENCIA EN VENTAS VISITANDO A CLIENTES DE ALMACEN APERTURA DE NUEVOS CLIENTES DE ALMACÉN PARA ZONA DE QUITO Y...
-"Chef Profesional, proactivo, con valores y disponibilidad de trabajar","",Quito,1,"Se requiere Chef/Cocinero para nuevo proyecto, con experiencia mínima de 3 años en cocina de restaurantes u hoteles...."
-Supervisor Bodega UIO,Fuentes San Felipe,Quito,1,Administrar el centro de distribución UIO. Supervisar las actividades de choferes y bodegueros. Administrar el flujo...
-Promotor/a,Lucky Ecuador,Cuenca,1,PERFIL REQUERIDO: *Tener como mínimo6 meses de experiencia en ventas o atención al cliente en Retail *Disponibilidad...
-Maquinistas Marineros Capitanes,Naturisa S.A.,Guayaquil,1,Requerimos Contratar Maquinistas con experiencia en Mecánica Marineros Capitanes  Indispensable experiencia en...
-diseñador grafico con dotes de vendedor y manejo de redes sociales,Medicalab,Guayaquil,1,"Importante empresa requiere contratar diseñador grafico requisitos experiencia mínima 2 años, dotes de vendedor,..."
-Ejecutivo de Inversiones,"",Cuenca,1,Realizar la captación de Depósitos a Plazo Fijo de acuerdo a su portafolio de inversiones y rentabilidad de la...
-Asesor Comercial para realizar Ventas por Call Center,TACATRAVEL COMPANY,Quito,164,Venta de Intangibles Ventas por Call Center Venta de Varios Productos Experiencia en Ventas Experiencia en...
-Coordinador académico,ITESUT,Quito,111,Instituto necesita Coordinador Académico con experiencia en educación. Persona responsable que viva preferiblemente en...
-Abogado/a,"",Guayaquil,129,Se requiere para contratación inmediata Abogado/a con mínimo 2 años de experiencia en el ejercicio profesional en...
-Asistente de ventas y marketing,Rivca,Quito,13,La posición tendrá a su cargo las siguientes responsabilidades: Gestionar la venta de software SaaS dirigido a...
-Jefe de Logistica,"",Cuenca,148,-Estructuraciòn de Rutas -Vigila que los pedidos lleguen a tiempo a los clientes. -Controla que la flota de vehículos...
-vendedor de local de repuestos hidraulicos/ despachos,HIDRONEUMATIC,Cuenca,73,"HIDRONEUMATIC REQUIERE CONTRATAR VENDEDOR CON EXPERIENCIA PARA LOCAL DE REPUESTOS AUTOMOTRICES E HIDRAULICOS ,..."
-bodeguero/ despachador de repuestos hidraulicos,HIDRONEUMATIC,Cuenca,73,"SE REQUIERE BODEGUERO CON EXPERIENCIA PARA LOCAL DE REPUESTOS HIDRAULICOS Y AUTOMOTRICES, DESPACHOS DE REPUESTOS,..."
-Community manager,Latino América Medialam Cía. Ltda.,Quito,195,"¡Te estamos buscando! ¿Disfrutas de las redes sociales? ¿Eres creativo/a, práctico/a, dinámico/a y muy..."
-Desarrollador Web,MagnusMas,Quito,110,Responsabilidades: • Construir y mejorar productos web. • Participar en todas las fases del desarrollo de los...
-Vendedor con experiencia en consumo masivo,"",Loja,28,-Atiende las necesidades de clientes de acuerdo a la ruta establecida por el Supervisor de Ventas  -Maneja cartera de...
-PHP Architect,BairesDev SA,Guayaquil,132,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-QA Automation Leader,BairesDev SA,Guayaquil,63,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-DevOps Tech Lead,BairesDev SA,Guayaquil,90,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-DevOps Architect,BairesDev SA,Guayaquil,16,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Salesforce Tech Lead,BairesDev SA,Guayaquil,119,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Salesforce Developer,BairesDev SA,Guayaquil,154,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Salesforce Architect,BairesDev SA,Guayaquil,82,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Angular Tech Lead,BairesDev SA,Guayaquil,83,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Angular Developer,BairesDev SA,Guayaquil,41,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Angular Architect,BairesDev SA,Guayaquil,20,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Angular 8 Developer,BairesDev SA,Guayaquil,133,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Java Tech Lead,BairesDev SA,Guayaquil,29,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Java Developer,BairesDev SA,Guayaquil,75,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Java Architect,BairesDev SA,Guayaquil,110,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-.NET Tech Lead,BairesDev SA,Guayaquil,34,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-.NET Developer,BairesDev SA,Guayaquil,89,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-.NET Architect,BairesDev SA,Guayaquil,62,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Senior Project Manager,BairesDev SA,Guayaquil,37,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-React Tech Lead,BairesDev SA,Guayaquil,42,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-React Developer,BairesDev SA,Guayaquil,153,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-React Architect,BairesDev SA,Guayaquil,57,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Node Tech Lead,BairesDev SA,Guayaquil,177,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Node Developer,BairesDev SA,Guayaquil,176,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Node Architect,BairesDev SA,Guayaquil,20,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Python Tech Lead,BairesDev SA,Guayaquil,88,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Python Developer,BairesDev SA,Guayaquil,184,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Python Architect,BairesDev SA,Guayaquil,197,"BairesDev is proud to be one of the fastest-growing companies in Latin America and a welcoming, highly rated employer..."
-Asesor ventas,Hydraulic Automation S.A.,Guayaquil,170,"Solicitamos vendedores, con experiencia en ferretería, o en venta de repuestos con cartera de clientes. Hombre- Mujer..."
-1 Motorizado y 1 Cajera,Cacie Optical S.A.,Cuenca,49,"Empresa requiere incorporar unMotorizado, a tiempo completo, para local en la ciudad de Cuenca Responsabilidades..."
-Recepcionista,TH Competencia,Quito,19,Buscamos una Recepcionista quien será responsable de: Atender a los clientes y personas que ingresen a las...
-Asesor ventas,Hydraulic Automation S.A.,Guayaquil,67,"Solicitamos vendedores, con experiencia en ferretería, o en venta de repuestos con cartera de clientes. Hombre- Mujer..."
-vendedor,DULCES GOXUA,Quito,50,Revisión de inventario de clientes atención de clientes de manera correcta revisión y recuperación de cartera registro...
-Ejecutivo de ventas,Wanqara,Quito,132,Buscamos EJECUTIVOS DE VENTA para vender de Software y Tecnología. En este trabajo debes tener una excelente imagen y...
-Vendedor Mercaderista,"",Quito,69,*REQUISITOS* INDISPENSABLE QUE TENGA EXPERIENCIA EN MANEJO DE CLIENTES MAYORISTAS EXPERIENCIA MINIMA 2 AÑOS EN CONSUMO...
-Mercaderista,"",Quito,35,"*FUNCIONES* Dar a conocer las características, beneficios y precios de los productos. Demostrar el funcionamiento y..."
-Bodeguero,"",Guayaquil,51,"Funciones:  -Recepción, embodegamiento, custodia, y manipuleo de la mercadería de los productos que ingresan por..."
-Diseñador gráfico ilustrador,"",Guayaquil,137,Requerimientos: -Se acepta candidatos con experiencia o sin experiencia.  Los candidatos sin experiencia pueden...
-Asistente de Bodega,"",Cuenca,163,*FUNCIONES* Adecuación y limpieza del local Reabastecimiento de producto en percha  Recepción de mercadería Despachos...
-Asistente Contable,"",Guayaquil,64,-FUNCIONES- Realizar anexos Elaboración y análisis de estados financieros Retenciones e impuestos Pagos a proveedores...
-Cajero Vendedor Estibador,"",Guayaquil,56,Objetivo del cargo: Impulsar las ventas y cobros en el almacén Funciones 1. Adecuación y limpieza del local (Diario) o...
-Cajero Vendedor,"",Cuenca,174,Objetivo del cargo: Impulsar las ventas y cobros en el almacén Funciones 1. Adecuación y limpieza del local (Diario) o...
-Auxiliar de servicios generales,"",Guayaquil,44,"Encarga de cocinar para dueños de la empresa.  Limpieza de todas las áreas que comprenden las instalaciones, salones..."
-Vendedores/as,VERA CENTENO LEONILA ALEXANDRA,Quito,81,Servicio al cliente.  Ventas y cobranzas.  Relaciones públicas.  Mercadotecnia. Tele-mercadeo.  Capacitación...
-Marketing Digital,"",Quito,158,"Conocimientos de Marketing Digital y nuevas tecnologías Conocimientos Básicos de programación (HTML, PHP, .CSS, .JS,..."
-Asesor Técnico de Herramientas,Acero Comercial Ecuatoriano S.A.,Guayaquil,30,Buscamos Asesor Técnico de Herramientas ¡Aceptas el reto! ¿En qué consiste la posición?  Brindar soporte y apoyo...
-Chofer para Guayaquil,Optimoda,Guayaquil,115,Experiencia de:2-3 años  Licencia: Tipo B Edad: 30 a 40 Sexo: Masculino Estudios: Bachiller o carreras afines ...
-Administrador/a de propiedad horizontal,Conjunto Parque Alegre,Quito,182,CIUDAD:	QUITO SECTOR: 	NORTE DE QUITO - LLANO GRANDE - CALDERÓN EDAD: 	30 A 45 AÑOS JORNADA LABORAL: 	MEDIO TIEMPO ...
-Coordinador Comercial de Repuestos,FOTON DEL ECUADOR ,Quito,108,"Prestigiosa empresa del sector Automotriz, requiere vincular a su equipo de trabajo a un COORDINADOR COMERCIAL DE..."
-Desarrollador Web FullStack Net Core y Angular,Data360,Quito,165,"Desarrollador Web FullStack Net Core y Angular, 1 año de contrato con facturación, Trabajo para una Multinacional con..."
-Bodeguero,"",Durán,200,"Se requiere contratar personal para el área de bodega, que cuente con los siguientes  Requisitos y Competencias:..."
-Técnico de proyectos industriales (Expansión),"",Durán,79,"Se requiere contratar personal para el área de mantenimiento, que cuente con los siguientes  Requisitos y..."
-Técnico de calidad  (QA),"",Durán,11,"Buscamos incorporar a nuestro equipo de trabajo un Gestor de calidad, recomendamos aplicar personas con pasión por el..."
-Oficial de Recuperación / Cobrador,"",Babahoyo,99,Misión del cargo: Disminuir la morosidad a través del seguimiento y control de la cartera. Actividades esenciales del...
-Gestor de presupuestos,"",Durán,165,"Buscamos incorporar a nuestro equipo de trabajo un gestor de presupuesto, con alta satisfacción al cliente que cumpla..."
-Cajero,Cooperativa Jep,Sucúa,74,Actividades del cargo: Realizar las transacciones de ventanillas  Validar las transacciones con el reporte del...
-Operador de Equipo Industrial,"",Durán,21,"Importante contratar un Operador de equipo industrial, que cuente con los siguientes Requisitos y Competencias:..."
-Oficial de Recuperación / Cobrador,"",Gualaceo,143,Misión del cargo: Disminuir la morosidad a través del seguimiento y control de la cartera. Actividades esenciales del...
-Técnico de mantenimiento de equipos industriales,"",Durán,62,"Se requiere contratar personal para el área de mantenimiento, que cuente con los siguientes  Requisitos y..."
-Monitor de Consola,Cooperativa Jep,Cuenca,63,Importante Empresa del Sector Financiero requiere contratar un Monitor de Consola para la ciudad de Cuenca. ...
-Chequero,"",Durán,162,"Se requiere contratar personal para el área de bodega, que cuente con los siguientes  Requisitos y Competencias:..."
-Oficial de Recuperación / Cobrador,"",Santa Isabel,191,Misión del cargo: Disminuir la morosidad a través del seguimiento y control de la cartera. Actividades esenciales del...
-Auxiliar de bodega,"",Durán,147,"Se requiere contratar personal para el área de Auxiliar de Bodega, que cumpla con los siguientes Requisitos y..."
-Médico veterinario,Fármacos Básicos (BASICFARM) S.A.,Quito,65,Médico veterinario (con título) quien actuará como promotor técnico comercial en pequeñas especies Hombre o mujer Con...
-Profesional para atención al paciente en Call Center,"",Quito,119,"Importante empresa del sector salud requiere personal con disponibilidad de tiempo completo, y excelente actitud para..."
-Oficial de Negocios,"",Quito,196,"Cotocollao Realizar la venta de los productos y servicios ofertados por la institución, así como la recuperación de..."
-Auxiliar de producción,"",Durán,40,"Se requiere contratar personal para el área de producción, que cuente con los siguientes Requisitos y Competencias:..."
-Profesionales con especialidad en realización de Gasometrías Arteriales,"",Quito,152,"Importante laboratorio clínico solicita personal para el área Flebotomía para turno COMPLETO con excelente presencia,..."
-Visitador/a médico,"",Quito,45,"Importante empresa del sector farmacéutico se encuentra en la búsqueda de un visitador médico- Línea Privada, para la..."
-Asistente de Compras e Importaciones,"",Cuenca,60,-Compra de materias primas internacionales -Elabora informes de importaciones para flujo de caja -Actualización del...
-Asistente contable,Fármacos Básicos (BASICFARM) S.A.,Quito,8,"Registrar todas las transacciones contables provenientes de las operaciones de la organización, con apego a la..."
-Cajero,Cooperativa Jep,Sucúa,87,Actividades del cargo: Realizar las transacciones de ventanillas  Validar las transacciones con el reporte del...
-Programador Junior SQL Server,Agrosoft S.A.,Guayaquil,79,"Egresado o Titulado en carrera afines a la informática (Licenciatura de Sistemas, Ingeniería en Sistemas, Análisis de..."
-Asesor Comercial,"",Ambato,165,"Importante Empresa del sector ferretero industrial, necesita incorporar a su equipo un Vendedor de Campo para la..."
-Asesor/a call center,WOLFCENTER,Guayaquil,129,Se requiere asesores de Call Center. Los candidatos deben cumplir el siguiente perfil: -Personas con o sin...
-Oficial de crédito y cobranza,AUTECNA PARTS CIA LTDA,Quito,165,Seguimiento de cartera por cobrar a clientes. Auditoría externa e interna de asesores comerciales. Análisis crediticio...
-Vendedora en Mostrador,"",Guayaquil,59,- Atención al público en mostrador - Aprendizaje continuo de la línea de productos - Proformar a Clientes - Atención...
-Gestor de Importaciones,"",Durán,11,"Buscamos incorporar a nuestro equipo de importaciones un gestor con habilidades para la negociación y logística, que..."
-Se solicita personal para multinacional turística,Haydith Yanine Ruiz Ditta,Guayaquil,75,"Se solicita personal pro-activo y dispuesto, con buen léxico y excelente presentación. Actitud positiva  Sueldo..."
-Asesor y Gestor al cliente,EDUPROYECT PROYECTO GLOBAL DEL ECUADOR S.A.,Quito,9,"Empresa de Gran Trayectoria, por expansión de servicio a nivel nacional e internacional Requiere personal con el..."
-RecibIdor/a pagador,"",Babahoyo,15,MISIÓN DEL CARGO: Atender a clientes y socios en lo que refiere a procesos de ventanilla. ACTIVIDADES PRINCIPALES:...
-Asistente de Mantenimiento,"",Guayaquil,90,"Nos encontramos en la búsqueda de un asistente de mantenimiento para la ciudad de Guayaquil, el cual tendrá las..."
-Obrero de Planta con discapacidad,Italimentos Cía. Ltda.,Cuenca,192,CONDICIONES DE TRABAJO * Se requiere realizar esfuerzo físico durante toda la jornada de trabajo. * Se labora en...
-Director General de Retail,Pervolare S. A.,Quito,46,"Perfil: Empresa líder en la Asesoría migratoria y de viajes en Ecuador y otros países de Latinoamérica, con más de 16..."
-Programa Jóvenes Talentos,Computadores y equipos,Guayaquil,32,En DOS Guayaquil vamos a lanzar “El programa de Jóvenes Talento” El objetivo del programa es incorporar a estudiantes...
-Ingeniero en Sistemas,"",Cuenca,22,-Desarrolla nuevos paquetes según requerimientos de los usuarios -Realiza la reingeniería de las formas -Revisa el...
-Médico veterinario,"",Guayaquil,182,Médico veterinario (con título) quien actuará como promotor técnico comercial en pequeñas especies Hombre o mujer Con...
-Oficial de Cumplimiento,"",Latacunga,108,-	Conocimiento en la Normativa para la Previsión de Lavado de Activos. -	Conocimiento en la Normativa de Economía...
-Ayudante de Instalación mecánica,COHECO S.A,Cuenca,19,Empresa líder en Transporte Vertical necesita incorporar personal para el cargo de Ayudante Novato de Instalación...
-Ingeniero en sistemas con experiencia en sistemas de seguridad,"",Quito,160,Prestigioso laboratorio solicita un profesional Ingeniero en sistemas    Formación académica: Titulo de tercer nivel...
-Cajero/a,Cooperativa Jep,Machala,184,Importante Empresa del Sector Financiero requiere contratar un/a Cajero/a para la ciudad de Machala Requisitos:  1....
-Diseñador/a Community,"",Guayaquil,77,Estamos en la busqueda de un diseñador/a Con las siguientes habilidades: - Illustrator (avanzado) - Figma (diseño de...
-Programador Senior en .NET Core y Angular,Agrosoft S.A.,Guayaquil,20,"Egresado o Titulado en carrera afines a la informática (Licenciatura de Sistemas, Ingeniería en Sistemas, Análisis de..."
-Asesor Comercial,"",Guayaquil,176,"Nos encontramos en la búsqueda de un asesor comercial para la ciudad de Guayaquil ,se debe contar con mínimo dos años..."
-Operador Call Center y Atención al cliente,Techsoft ,Quito,46,* Atención al cliente vía telefónica y web * Derivación de casos * Resolución de consultas * Soporte remoto...
-"Supervisor y Operador, de Callcenter y Servicio al Cliente",Techsoft ,Quito,39,REQUISITOS: * Experiencia en el cargo de Supervisor de Callcenter y Servicio al cliente * Conocimiento de ventas...
-Vendedor insumos textiles,Etiquetex S.A.,Ambato,169,"Somos una importante empresa del sector textil, requerimos incorporarvendedores quienes tendrán la responsabilidad de..."
-Pasante de Diseño Gráfico,"",Quito,149,¿Te encuentras en búsqueda de una pasantía? Si te encuentras estudiando en los últimos semestres de Diseño Gráfico o...
-Vendedor/a ( fijo o por comisión),Cleantech,Quito,40,SI NO TIENE EXPERIENCIA EN VENTAS PUERTA A PUERTA NO APLIQUE Se busca vendedores con experiencia para sus líneas:...
-asesor comercial,Flexofama Cia. Ltda.,Quito,3,GENERAR VENTAS ABRIR NUEVOS MERCADO TENER CONOCIMIENTO DE EMPAQUES FLEXIBLES  CONOCER EL MERCADODE EMPRESAS DE...
-Consultor,IDIOMFA CIA LTDA,Cuenca,10,"El postulante debe tener experiencia comprobada en ventas de intangibles, además de mostrar suficiente habilidad en lo..."
-Asesor Comercial,PEGATANKE,Cuenca,73,"Descripción de empleo Que residan el la Provincia de Loja, Azuay, Guayaquil Movilización propia. Disponibilidad para..."
-Asesor de ventas,"",Quevedo,73,¡¡ESTA ES TU OPORTUNIDAD!!Buscamos incorporar a nuestro equipo de trabajo Asesor de Ventas de campo Requisitos:...
-Ejecutivo de Servicio al Cliente,Cooperativa Jep,Cuenca,23,Importante Empresa del Sector Financiero requiere contratar un/a Ejecutivo de Servicio al Cliente para la ciudad de...
-Administrador de Tienda,"",Huaquillas,158,"Buscamos incorporar a nuestro equipo de trabajo un Administrador de Tienda, personas con pasión para las ventas y..."
-Administrador de Tienda,"",Machala,90,"Buscamos incorporar a nuestro equipo de trabajo un Administrador de Tienda, personas con pasión para las ventas y..."
-Asesor de ventas de campo,Talent Hunter,Machala,24,¡ESTA ES TU OPORTUNIDAD!!Buscamos incorporar a nuestro equipo de trabajo Asesor de Ventas de campo Requisitos:...
-Asesor Comercial,Edificar,Quito,155,"Importante Empresa Contructora, se encuentra en la búsqueda de 2 Asesores Comerciales inmobiliarios con la..."
-Bodeguero,ASESORCAPT,Ambato,198,Nos encontramos en la búsqueda de un Bodeguero con experiencia de 2 años mínimo. Objetivo General del Cargo: Mantener...
-Ingeniero automotriz o técnico automotriz,Bombastic S.A.,Quito,34,Enfoque en el servicio de tención al cliente Buena dicción Relaciones interpersonales Capacidad de autoaprendizaje y...
-Recaudador,Estudio Jurídico Romero D & Asociados S.A.,Guayaquil,189,Se requiere Recaudador que cumpla con los siguientes requisitos del cargo:  - Establecer contacto y visita en terreno...
-Matricero/a,"",Guayaquil,127,- Habilidades de comunicación efectiva -	Conocimientos en soldadura eléctrica y autógena. -	Estudios de mecánica...
-Desarrollador Asp.Net,GuruSoft,Guayaquil,112,Buscamos a una persona proactiva y dinámica para formar parte de nuestro equipo de Desarrollo. Propósito del puesto: o...
-"Laboratorista o Bioquímico Clínico, con experiencia","",Guayaquil,48,"Importante empresa del sector requiere contratar Licenciados en Laboratorio Clínico y/o Bioquímico Clínico,con..."
-Pasante administrativo/a,ECUA CONSORCIO CONSORCIODELECUADOR S.A.,Quito,195,Redactar Documentos Archivar Manejo de documentos y carpetas Apoyo en el área de Adjudicaciones  Apoyo en el trámite...
-Technical Support Agent,GuruSoft,Guayaquil,199,Buscamos una persona para ser parte del departamento técnico de GuruSoft. Implementar y configurar nuestros productos....
-Oficial de Negocios,Cooperativa Jep,Gualaceo,129,Importante Empresa del Sector Financiero requiere contratar un Oficial de Negocios para Gualaceo: Requisito: 1....
-Oficial de Negocios,"",Quito,185,"TUMBACO Realizar la venta de los productos y servicios ofertados por la institución, así como la recuperación de..."
-Auditor de campo / Encuestador,"",Portoviejo,184,Importante empresa multinacional de Investigación de mercados requiere contratar un AUDITOR DE CAMPO en PORTOVIEJO. La...
-tecnico mecanico,OXIGENOS DEL GUAYAS OXIGUAYAS S.A.,Guayaquil,187,Se requiere personal con concimientos Tecnicos para el area de Produccion y Mantenimiento Requisitos: * Tecnico...
-Chofer Vendedor,OXIGENOS DEL GUAYAS OXIGUAYAS S.A.,Guayaquil,169,Importante empresa solicita incorporar a su equipo de trabajo personal con experiencia Requisitos: * Licencia...
-Pasante en economia y finanzas,COMPAÑIA DE TRANSPORTE DE CARGA PESADA TRANSELREY,Quito,106,Importante empresa de Logistica busca Pasantes en Economia y Finanzas para proyecto por favor acercarse a las oficinas...
-Ejecutiva comercial,"MEDICPOINT RESONANCIA ESPECIALIZADA ,CIA,LTDA",Guayaquil,73,"Posicion para profesional graduado en publicidad, Mercadeo o areas afines, con enfoque en ventas y desarrollo de..."
-Ejecutivo/a comercial,Techsoft ,Quito,51,- Coordinar y gestionar con el Gerente Comercial la estrategia comercial de su cargo. - Creación de base de datos de...
-Vendedor comercial electrodomésticos,Almacén Silvanita,Rumiñahui,83,"REQUISITO INDIPENSABLE conocimiento en venta de electrodomésticos, con experiencia comprobada de al menos un año, no..."
-Operador de Equipo Industrial,"",Huaquillas,25,"¡¡ESTA ES TU OPORTUNIDAD!! Requisitos: 	Personas de 26 - 38 años. 	Técnicos universitarios en 3° nivel, Mecánica..."
-Oficial de Negocios,"",Guayaquil,191,"URDESA Realizar la venta de los productos y servicios ofertados por la institución, así como la recuperación de..."
-Auxiliar de Trade Marketing Guayaquil,Italimentos Cía. Ltda.,Guayaquil,130,INDISPENSABLE * Experiencia mínimo de 1 año como impulsadora de productos alimenticios. * Conocimientos en el manejo...
-Cajero,"",Portoviejo,99,"Buscamos incorporar a nuestro equipo de trabajo un Cajero, recomendamos aplicar personas con pasión para las ventas y..."
-Verificador de ATM,Cooperativa Jep,Cuenca,184,Importante empresa del sector financiero desea incorporar a su equipo de trabajo un Verificador de ATM para la ciudad...
-Laboratorista de calidad,Italimentos Cía. Ltda.,Cuenca,125,"INDISPENSABLE * Estudios universitarios completos en Ingeniería de Alimentos, Ingeniería Bioquímica. * Experiencia en..."
-Operador de Equipo Industrial,"",Machala,192,"¡¡ESTA ES TU OPORTUNIDAD!! Requisitos: 	Personas de 26 - 38 años. 	Técnicos universitarios en 3° nivel, Mecánica..."
-Mensajero,Cooperativa Jep,Cuenca,99,Importante Empresa del Sector Financiero requiere contratar un Mensajero para la ciudad de Cuenca:  Requisitos: 1....
-Coordinador de Investigación y Desarrollo. Empaques,Italimentos Cía. Ltda.,Cuenca,137,"INDISPESABLE * Disponibilidad para trabajar en horarios extendidos. * Experiencia mínima de 3 años como coordinador,..."
-Ing. CPA. Asistente contable con experiencia,"",Quito,131,"Importante empresa del sector salud, busca incorporar profesional en el área de contabilidad con experienciaprevia:..."
-Administrador de Tienda,"",Babahoyo,179,"Buscamos incorporar a nuestro equipo de trabajo un Administrador de Tienda, personas con pasión para las ventas y..."
-Lic. en laboratorio Clínico (Bioanalísta).,"",Quito,34,Liceciado en Laboratorio Clinico con experiencia en equipos automatizados de Bioanálisis: Competencias: Organización y...
-Oficial de Negocios,"",Guayaquil,90,"GARZOTA Realizar la venta de los productos y servicios ofertados por la institución, así como la recuperación de..."
-Cajero Delicatessen Italdeli,Italimentos Cía. Ltda.,Cuenca,120,Actividades principales del cargo: •	Realizar el cobro de pedidos •	Realizar el cuadre de cajas •	Atender...
-Almacen Ferretero,"",Guayaquil,136,"Asesoras Comerciales - Cajeras Importante empresa comercializadora de materiales de Ferreteria, requiere incorporar a..."
-Vendedora,Optiglass,Guayaquil,37,"Importante empresa del sector salud Visual requiere vendedoras con disponibilidad de viaje, que tenga comunicación..."
-Almacen Ferretero,"",Guayaquil,48,"Estibador Importante empresa comercializadora de materiales de ferretería, requiere incorporar a su equipo de trabajo..."
-Ingenier@ en Sistemas TICS,"",Latacunga,164,-	Administración de la página web y correo institucional -	Administración del sistema de Vigilancia -	Limpieza del...
-Asesores comerciales,TOPCABLE S.A.,Manta,148,Topcable S.A. Requiere contratar Asesores comerciales para la cuidad de Manta Que cumplan los siguientes requisitos:...
-Cajero,"",Manta,55,"Buscamos incorporar a nuestro equipo de trabajo un Cajero, recomendamos aplicar personas con pasión para las ventas y..."
-Asistente Contable con experiencia en servicio al cliente /Quito/,BADENT,Quito,129,"Importante empresa ubicada en la ciudad de Quito, busca contratar asistente contable o recepcionista. PERFIL DEL..."
-Asesor de ventas telefónico con experiencia,SCALA PERU S.A.C,Quito,92,¡Estamos buscando! Asesores de ventas telefónicas (Esta vacante requiere también personal con discapacidad) Somos una...
-Contador sénior,Biz Latin Hub Ecuador,Quito,78,"Biz Latin Hub busca un contador bilingüe con carnet profesional válido, con al menos dos años de experiencia y..."
-Técnico de Mantenimiento,Italimentos Cía. Ltda.,Cuenca,55,"Realizar, gestionar y hacer seguimiento a las órdenes de trabajo para la ejecución del plan de mantenimiento. Realizar..."
-"Desarrollador Senior de Software .Net , PHP y Javascript",Data360,Quito,65,"Conocimiento en: ASP.NET, WEBFORMS C#, Visual Studio, PHP, HTML5, CSS, JAVASCRIPT, JSON, JQUERY, ASP. NET(C#) ,..."
-Asistente Administrativo con disponibilidad de tiempo completo horarios rotativos,"",Quito,131,"Importante laboratorio clínico solicita profesional para asistente administrativo con excelente presencia, actitud..."
-Cajero,"",Quevedo,83,"Buscamos incorporar a nuestro equipo de trabajo un Cajero, recomendamos aplicar personas con pasión para las ventas y..."
-Coordinador de Talento Humano,Comlasa,Quito,171,Se requiere contratar un Coordinador de Talento Humano que cumpla las siguientes funciones: -Verificar que los files...
-Vendedores,TOPCABLE S.A.,Guayaquil,50,TOPCABLE S.A. Requiere Vendedores para la cuidad de Guayaquil Requisitos: Sexo indistinto Edad mínima 18 años...
-Ejecutiva de ventas,INNOFARM,Quito,198,Grupo del sector salud se encuentra en la búsqueda de personal para cubrir vacante de ejecutiva de ventas para...
-Agente promotor de ventas,Optiglass,Guayaquil,194,"Importante empresa del sector salud requiere promotor puerta a puertacon disponibilidad de viaje de inmediata, un..."
-Técnico Electromecánico,Verzosi S.A.,Guayaquil,90,"Capaz de realizar montajes, instalación, mantenimiento y reparación de equipos eléctricos y electromecánicos. Realizar..."
-Cajero Encargado de Tienda,FUSION LATINOAMERICA FUSLAT S.A,Loja,85,Empresa transnacional dedicada a la venta y distribución de productos suplementarios con presencia en países de...
-Auxiliar de almacén,"",Guayaquil,48,Cargo: Auxiliar de Almacén Funciones: - Limpieza de local - Orden en Bodega - Envasado de mercadería - Embalaje de...
-Asesor Comisionista Gestión de ventas,TAXI EASY CAR,Quito,192,"Empresa dedicada a la Logística y Transporte a nivel nacional, está en búsqueda de Asesores Comerciales Freelance (SIN..."
-Sto. Dgo. Colorados y Cuenca Vendedor de Cobertura,SERTECOMCELL,Santo Domingo,133,"Perfil: * Experiencia mínima de 2 años en ventas de cobertura * Trabajo de campo, ventas en frio o puerta a puerta *..."
-Oficial de Negocios,Cooperativa Jep,Cuenca,45,Importante Empresa del Sector Financiero requiere contratar un/a Oficial de Negocios para la ciudad de Cuenca. ...
+Trabajo,Empleador,Localizacion,Fecha
+técnicos,PARTS AND SERVICES RT,Quito,1
+Desarrollador Web .Net,Stratus Solutions S.A,Quito,3
+CONTADOR OKASCONSULTING GROUP,Claro,Quito,0
+ASISTENTE BANCA DE PERSONAS 29 ENERO 2021,Claro,Guayaquil,0
+ASESOR DE NEGOCIOS 2021 QUITO CARAPUNGO,Claro,Quito,0
+Comprador de Bienes y Servicios,Almacenes De Prati S.A.,Guayaquil,0
+INGENIERO DE CONTROL DE VERSIONES Y DEVOPS,BGR,Quito,0
+JEFE REGIONAL DE NEGOCIOS COSTA,Claro,Portoviejo,0
+COORDINADOR DE ZONA QUITO,DEGEREMCIA,Quito,0
+Coordinador de Atención al Cliente,FUNDACION TIERRA NUEVA,Quito,0
+Asesor Comercial,Multitrabajos.com S.A,Quito,0
+Operador Telefónico / Teletrabajo,Talento Humano SA,Quito,0
+ASESORES COMERCIALES,Leterago del Ecuador S.A.,Guayaquil,0
+ASESOR COMERCIAL VIRUSCLEAN,Claro,Guayaquil,0
+EJECUTIVO I CONTROL DE TARJETA CARTERA Y CONTINGENTE,Claro,Guayaquil,0
+EJECUTIVO COMERCIAL AMBATO,EQUIVIDA COMPANIA DE SEGUROS S.A.,Ambato,0
+ANALISTA DE SELECCION GUAYAQUIL,Serinse S.A.,Guayaquil,0
+ARQUITECTO BIG DATA,Banco Pichincha,Ecuador,0
+Ayudante Técnico en Telecomunicaciones [Chillán],PEOPLE GO,Chile,0
+PASANTE DE SEGURIDAD Y SALUD OCUPACIONAL,Adecco,Quito,0
+ANALISTA CONTABLE,Adecco,Quito,0
+PASANTE DE REGULACION,Adecco,Quito,0
+Vendedoresas con o sin experiencia,VERA CENTENO LEONILA ALEXANDRA,Quito,0
+Asistente de ventas y marketing Software B2B,Rivca,Quito,0
+Chofer para Guayaquil Experiencia en Empresas Retail,Optimoda,Guayaquil,0
+Coordinador Comercial de Repuestos experiencia en el sector automotriz,FOTON DEL ECUADOR,Quito,0
+Trade Marketing - Soporte Comercial,Dimprokel S.A.,Quito,0
+"NECESITO UNA PERSONA 25 A 30 AÑOS MULTIFUNCIONAL: CUIDADOR NOCTURNO, CHOFER REPARTIDOR Y PRODUCCION",VELAS MAGICAS HAPPY BIRTHDAY,Guayaquil,0
+bodeguero despachador de repuestos hidraulicos,HIDRONEUMATIC,Cuenca,0
+Recepcionista,TH Competencia,Quito,0
+vendedor santo domingo,DULCES GOXUA,Quito,0
+vendedor de local de repuestos hidraulicos despachos,HIDRONEUMATIC,Cuenca,0
+Asesor ventas repuestos y ferretero para provincias viajero,Hydraulic Automation S.A.,Guayaquil,0
+Asesor ventas repuestos y ferretero para provincias viajero,Hydraulic Automation S.A.,Guayaquil,0
+Asesor Técnico de Herramientas,Acero Comercial Ecuatoriano S.A.,Guayaquil,0
+Desarrollador Web FullStack Net Core y Angular,Data360,Quito,0
+Community manager,Latino America Medialam Cia. Ltda.,Quito,0
+Asesor Comercial para realizar Ventas por Call Center Telemercadeo,TACATRAVEL COMPANY,Quito,0
+Ejecutivo de ventas Software y tenología,Wanqara,Quito,0
+Coordinador académico Con experiencia,ITESUT,Quito,0
+1 Motorizado y 1 Cajera con experiencia,Cacie Optical S.A.,Cuenca,0
+ANALISTA FINANCIERO SENIOR /CONSUMO MASIVO,Confiteca,Quito,0
+ASESORA DE VENTAS JR,Cosmobell Cia. Ltda,Guayaquil,0
+asesor inmobiliario AMBATO,mayu jijon,Ambato,0
+Guillotinero,Pantone Impresiones,Quito,0
+EJECUTIVO DE VENTAS CON POSIBILIDAD DE ASCENSO,Pirka Stone Machala,Machala,0
+Dibujante sketchup. Experiencia en mobiliario,Javier Mino,Quito,0
+Auditor Médico Guayaquil,ECUASANITAS,Guayaquil,0
+ASISTENTE DE CONTABILIDAD Y NÓMINA,consultingtax,Quito,0
+GESTOR DE COBRANZAS,Carlos Ordonez,Quito,0
+EJECUTIVOS VENTAS DE TELEFONIA MOVIL Y PRODUCTOS TECNOLOGICOS - CUENCA,INTCOMEX DEL ECUADOR S.A.,Cuenca,0
+ING. CIVIL Y ARQUITTECTO,DELHIERRO CONS,Quito,0
+INGENIERO DE CONTROL DE VERSIONES Y DEVOPS,Banco General Ruminahui,Quito,0
+Vendedora Freelance,Orfa Corp,Quito,0
+Se busca chica buena presencia para atender local en Sangolqui,Eduardo Paucar,Sangolqui,0
+Coordinador de Satisfacción y Gestión de Calidad con el Cliente,Telconet,Guayaquil,0
+IMPORTANTE CONSORCIO AUTOMOTRIZ REQUIERE,EDUARDO CANDELL,Guayaquil,0
+ING ELECTRÓNICO / MECATRÓNICO,Nestlé,Quito,0
+Desarrollador Web .Net,Stratus Solutions S.A,Quito,0
+LINER Y CLOSER PARA SALA DE VENTAS,GRUPO NOVA,Quito,0
+COORDINADOR DE ZONA QUITO,DEGEREMCIA,Quito,0
+SOPORTEC SOLICITA PASANTE DE MARKETING DIGITAL,SOPORTEC,Quito,0
+Asesor comercial - Santo Domingo,Banco Bolivariano,Santo Domingo de los Colorados,0
+Asesor comercial South American Language Center,PERFORMIA,Quito,0
+VENDEDOR / AUTOVENTA CONSUMO MASIVO,Nestlé,Riobamba,0
+Jefe de capacitación comercial,Acromax S.A,Samborondón,0
+Ingeniero en Sistemas,COGECOMSA,Quito,0
+COORDINADOR DE MARKETING (QUITO),N/A,Quito,0
+SUPERVISOR DE OPERACIONES CONTAC CENTER,consultingtax,Quito,0
+Administradora de propiedad horizontal Administrador de Conjunto Habitacional,Conjunto Parque Alegre,Quito,0
+ASESOR DE CUMPLIMIENTO,RICHARD LEON,Guayaquil,0
+ASESOR COMERCIAL,Esteban Silva,Cuenca,0
+Agente de Puntos de Venta (Counter) Guayaquil - Eventual 2 meses,DHL Express,Guayaquil,0
+Se solicita personal,Alexander Rivera,Quito,0
+Asesor Comercial Corporativo,TECECOM,Quito,0
+VENDEDOR AMBATO,consultingtax,Ambato,0
+Técnico en Ventas (freelance) Quito,Seidlaboratory Cia. Ltda.,Quito,0
+Químico Farmacéutico (Representante Técnico),B.Braun Medical S.A.,Quito,0
+CHOFER TRAILERO,ANDREA NIVELO,Guayaquil,0
+VENDEDOR DE MOSTRADOR,DOTTIE FERNANDA CHAVEZ LEON,Cuenca,0
+ANALISTA TRANSFERENCIAS INTERNACIONALES (BACK OFFICE),Banco Internacional,Quito,0
+Operador Telefónico / Teletrabajo,Corporacion Plus Wireless,Quito,0
+VENDEDOR PARA MACHALA DIVISIÓN TEXTILES,COSTURAS INTERNACIONALES,Machala,0
+Analista de Transportes,Axionlog ecuador SAS,Guayaquil,0
+VENDEDOR / AUTOVENTA CONSUMO MASIVO,Nestlé,Santo Domingo de los Colorados,0
+Jefe de Ventas en Empresa de Seguros - Manta,Giovanny Lescano,Manta,0
+Asesor Comercial,Martha Aguayo,Portoviejo,0
+CAJERO/A,HILLARY RESORT,Arenillas,0
+Ayudante de Bodega - Portoviejo,Telconet,Portoviejo,0
+ING. CIVIL TOPOGRAFO,DELHIERRO CONS,Quito,0
+ASESOR DE NEGOCIOS JUNIOR (MANTA),BANCO D-MIRO,Manta,0
+PARA LA CIUDAD DE MACHALA SE CONTRATAN EJECUTIVOS COMERCIALES,TVCABLE,Machala,0
+Bodeguero,Seidlaboratory Cia. Ltda.,Quito,0
+VENDEDOR / AUTOVENTA CONSUMO MASIVO,Nestlé,Quevedo,0
+Jefe de Marketing,Jefe Marketing,Quito,0
+Pasante Seguridad Industrial Guayaquil,ECUASANITAS,Guayaquil,0
+Consultor de Ventas,Veronica Espinoza,Cuenca,0
+ASESOR COMERCIAL,jaime del castillo,Sangolqui,0
+Ejecutivo de Negociacion,Angel Andres Mantilla Hormaza,Guayaquil,0
+IMPULSADORA MANTA Y PORTOVIEJO,CARVAGU S.A.,Manta,0
+ANALISTA DE COSTOS - Ciudad de Quito,KFC,Quito,0
+OFICIAL DE CUMPLIMIENTO,FONDO DE CESANTIA,Guayaquil,0
+TECNICO CAPILAR,JOSE SANCHEZ,Cuenca,0
+ANALISTA DE COMPRAS,MILENA ROBLES,Guayaquil,0
+ING. CIVIL CONSTRUCTOR VIAS Y CALLES URBANAS,DELHIERRO CONS,Quito,0
+Impulsadora - Quito,D´MUJERES S.A.,Quito,0
+Asistente Administrativa / Digitadora telecomunicaciones,Maria Cevallos,Guayaquil,0
+Médico Veterinario/a,Katherine Chavez,Guayaquil,0
+Pasante Administración,Estrategias & Mercado,Guayaquil,0
+VENDEDORES DE TELECOMUNICACIONES,Maria Cevallos,Guayaquil,0
+VENDEDORES/RAS,Sebastian Nunez,Quito,0
+Vendedores para Cobertura Tienda a Tienda,Eduardo Villacis,Quito,0
+Desarrollador Web,MagnusMas,Quito,0
+VENTAS DIGITALES,PAOLA ANABELLA FARIAS ALVAREZ,Guayaquil,0
+ABOGADO DE COBRANZAS,Celyasa,Cuenca,0
+Líder Contable,Comercial,Guayaquil,0
+DOCENTE DE MATEMATICA,MARITZA OCAMPO,Loja,0
+Vendedores para centros comerciales (Manta),GLOW BEAUTY BAR,Manta,0
+DOCENTES PARA BÁSICA ELEMENTAL MAESTRA DE GRADO,Tareas dirigidas y acomoanamiento academico,Quito,0
+Arquitecto & Desarrollador de Soluciones SOA,Automotores y Anexos,Quito,0
+Ing de Monitoreo BOC,N/A,Quito,0
+Marketing Digital Nivel medio alto de ingles,N/A,Quito,0
+Abogadoa Senior,N/A,Guayaquil,0
+Vendedor con experiencia en consumo masivo con movilización propia,N/A,Loja,0
+ASISTENTE CONTABLE,N/A,Quito,0
+AGENTE AUTORIZADO,N/A,Guayaquil,0
+RECAUDADOR PARA CANTON DAULE,N/A,Daule,0
+"BlueCard, Empresa de Medicina Prepagada busca ASESOR COMERCIAL",N/A,Quito,0
+Jefe de Logistica Experiencia indispensableDisponibilidad Horarios,N/A,Cuenca,0
+ASISTENTE DE INVENTARIOS,N/A,Quito,0
+Promotor/a,N/A,Guayaquil,0
+MECÁNICO DE MÁQUINA SELLADORA AL VACÍO,N/A,Guayaquil,0
+Analista de Comercio Exterior y Aduanas,N/A,Quito,0
+TELEVENDEDORES - CONTAC CENTER,N/A,Guayaquil,0
+MERCADERISTA - IMPULSADORA PARA MACHALA,N/A,Machala,0
+Analista de Nómina Bilingüe,N/A,Quito,0
+Psicólogo/a Clínico/a - Ambato,N/A,Ambato,0
+Trabajadora Social - Ambato Urgente,N/A,Ambato,0
+ADMINISTRADOR TURÍSTICO PARA LA CIUDAD DE CUENCA,N/A,Cuenca,0
+Vendedor de Centro Comercial - Ambato,N/A,Ambato,0
+JEFE DE MANTENIMIENTO,N/A,Cuenca,0
+EJECUTIVO COMERCIAL ONLINE,N/A,Guayaquil,0
+Trabajo Social,N/A,Guayaquil,0
+LIDER DE CALIDAD - CALL CENTER,N/A,Guayaquil,0
+"ASISTENTE DE SUSCRIPCIÓN, QUITO - COPIA",N/A,Quito,0
+Técnico de Mantenimiento de Instalaciones Centralizadas GLP (GUAYAQUIL),N/A,Guayaquil,0
+Bodeguero,N/A,Guayaquil,0
+Multinacional busca Desarrollador Senior,N/A,Guayaquil,0
+Jefe de Bodega,N/A,Quito,0
+CHOFER LICENCIA TIPO D,N/A,Quito,0
+"Responsable de Seguridad, Salud y Ambiente (Quito)",N/A,Quito,0
+Supervisor de Instaladores de dispensadores Sanitarios,N/A,Guayaquil,0
+ANALISTA CONTABLE - QUITO,N/A,Quito,0
+TRABAJE DESDE CASA,GRUPO JMC E.I.R.L.,Guayas,0
+Técnico Comercial (GUAYAQUIL),N/A,Guayaquil,0
+"SUSCRIPTOR, QUITO - COPIA",N/A,Quito,0
+Pasante de Marketing,N/A,Quito,0
+Jefe de Bodega,N/A,Cuenca,0
+ASISTENTE SERVICIO AL CLIENTE Y RRHH,N/A,Quito,0
+COORDINADOR DE AMBIENTE,N/A,Quito,0
+Obrero de Patio (Estibadores) / QUITO,N/A,Quito,0
+EJECUTIVO DE COBRANZAS,N/A,Guayaquil,0
+Auxiliar Interno de pedidos a domicilio - UIO,N/A,Quito,0
+OPERARIO DE PRODUCCIÓN (CORTE) - COPIA,N/A,Machachi,0
+Asesor Comercial Farma,N/A,Ambato,0
+Auxiliar de Visual Merchandising,N/A,Guayaquil,0
+EMPRESA DE SERVICIOS BUSCA TECNICO CON EXPERIENCIA EN USO DE PULIDORAS O AMOLADORAS,GONZALO LOPEZ,Ecuador,0
+Equipamiento de carpintería en vivienda,Maderas Carpinteria,Nobol,0
+ELÉCTRICO DE PLANTA,Grupo Superior SA,Ecuador,0
+Inspector de Calidad,Indurama,Cuenca,1
+Recaudador Motorizado (GYE),Casa Del Ruliman,Guayaquil,1
+Gerente de Cuenta Canal Distribución,Cargill,Machala,1
+DESARROLLADOR ESTRATÉGICO TARJETA DE CRÉDITO,Claro,Guayaquil,1
+Inspector de Calidad,Indurama,Cuenca,1
+ASESOR COMERCIAL SANTO DOMINGO,ChevyPlan,Santo Domingo de los Colorados,1
+AGENTE DE SERVICIO,Claro,Guayaquil,1
+PASANTE DE CREDITO Y COBRANZAS,Sika,Guayaquil,1
+Gerente de Cuenta Canal Distribución,Cargill,Machala,1
+Oficial de Crédito y Caja para la ciudad de La Libertad,CrecosCorp,La Libertad,1
+Gerente de Cuenta Canal Distribución,Cargill,Machala,1
+PLANIFICADOR DE PRODUCCIÓN UIO,Claro,Quito,1
+Ayudante de Instalación Masiva,PUNTONET S.A.,Guayaquil,1
+INGENIERO ARQUITECTO EN SEGURIDAD DE REDES,Telconet,Guayaquil,1
+Vendedores de Cobertura TAT,Industrias Ales,Manta,1
+Vaccines SBA,Pfizer,Quito,1
+ASESOR COMERCIAL Y VENTAS QUITO,Claro,Quito,1
+Jefe de Consola,Deloitte,Guayaquil,1
+ASESOR TELEFÓNICO / TELETRABAJO,Talento Humano SA,Quito,1
+PASANTE DE LABORATORIO,Sika,Guayaquil,1
+PASANTE DE COMUNICACIÓN,Claro,Quito,1
+CONSULTOR SENIOR COMERCIAL Y DESARROLLO DE NEGOCIOS,Claro,Quito,1
+EC - Pasante Servicios Digitales,Telefónica,Quito,1
+ANALISTA DE NÓMINA DE GUAYAQUIL,Serinse S.A.,Ecuador,1
+ANALISTA DE BI QUITO,Serinse S.A.,Ecuador,1
+GERENTE ADMINISTRATIVO FINANCIERO - QUITO,Manpower,Quito,2
+Ing de Monitoreo BOC,Telconet,Quito,2
+EJECUTIVO DE VENTAS QUITO ENERO 2021,Colineal,Quito,2
+EJECUTIVO DE VENTAS QUITO ENERO 2021,Claro,Quito,2
+Jefe de Recursos Humanos,Deloitte,Ambato,2
+ESPECIALISTA FORMS Y REPORTS,Claro,Quito,2
+Mecánicos II,Naturisa S.A.,Guayaquil,0
+Ingeniero Eléctrico,Naturisa S.A.,Guayaquil,0
+Ejecutivo Comercial,Solución Legal,Guayaquil,0
+Analista programación,Empresa Software Quito SisConti S.A,Quito,1
+Coordinador de Información Logística y S OP,Italimentos Cía. Ltda.,Cuenca,1
+Asistente para  Atención al Paciente. Plan de carrera,"",Quito,1
+Recepcionista para  Atención al Paciente incorporación inmediata,"",Francisco de Orellana,1
+Profesional Emergencias médicas Prehospitalaria,"",Francisco de Orellana,1
+"Laboratorista o Bioquímico Clínico, con experiencia","",Francisco de Orellana,1
+Administrador de Local Comercial,"",Guayaquil,1
+Profesional de cuarto nivel en Biologia molecular,"",Quito,1
+Médico Ocupacional con disponibilidad tiempo completo.,"",Quito,1
+"Flebotomísta Profesionales, Lic. en enfermeria, Prehospitalarios","",Quito,1
+Ing. CPA. Asistente contable con experiencia en cobranzas,"",Quito,1
+Médico Ocupacional con experiencia comprobable para el Coca,"",Quito,1
+Electricista,Naturisa S.A.,Guayaquil,1
+Mecánico Electrónico,Naturisa S.A.,Guayaquil,1
+Operador de Equipo Industrial,"",Babahoyo,1
+Ejecutivo de Inversiones,"",Pastaza,1
+Ing. Talento Humano con experiencia en,"",Quito,1
+Promotor/a,Lucky Ecuador,Loja,1
+Operador de Equipo Industrial,"",Quevedo,1
+Asesor Comercial,AUTECNA PARTS CIA LTDA,Quito,1
+"Chef Profesional, proactivo, con valores y disponibilidad de trabajar","",Quito,1
+Supervisor Bodega UIO,Fuentes San Felipe,Quito,1
+Promotor/a,Lucky Ecuador,Cuenca,1
+Maquinistas Marineros Capitanes,Naturisa S.A.,Guayaquil,1
+diseñador grafico con dotes de vendedor y manejo de redes sociales,Medicalab,Guayaquil,1
+Ejecutivo de Inversiones,"",Cuenca,1
+Asesor Comercial para realizar Ventas por Call Center,TACATRAVEL COMPANY,Quito,114
+Coordinador académico,ITESUT,Quito,113
+Abogado/a,"",Guayaquil,45
+Asistente de ventas y marketing,Rivca,Quito,83
+Jefe de Logistica,"",Cuenca,163
+vendedor de local de repuestos hidraulicos/ despachos,HIDRONEUMATIC,Cuenca,88
+bodeguero/ despachador de repuestos hidraulicos,HIDRONEUMATIC,Cuenca,175
+Community manager,Latino América Medialam Cía. Ltda.,Quito,85
+Desarrollador Web,MagnusMas,Quito,37
+Vendedor con experiencia en consumo masivo,"",Loja,160
+PHP Architect,BairesDev SA,Guayaquil,188
+QA Automation Leader,BairesDev SA,Guayaquil,184
+DevOps Tech Lead,BairesDev SA,Guayaquil,158
+DevOps Architect,BairesDev SA,Guayaquil,120
+Salesforce Tech Lead,BairesDev SA,Guayaquil,171
+Salesforce Developer,BairesDev SA,Guayaquil,109
+Salesforce Architect,BairesDev SA,Guayaquil,20
+Angular Tech Lead,BairesDev SA,Guayaquil,194
+Angular Developer,BairesDev SA,Guayaquil,119
+Angular Architect,BairesDev SA,Guayaquil,179
+Angular 8 Developer,BairesDev SA,Guayaquil,178
+Java Tech Lead,BairesDev SA,Guayaquil,29
+Java Developer,BairesDev SA,Guayaquil,131
+Java Architect,BairesDev SA,Guayaquil,113
+.NET Tech Lead,BairesDev SA,Guayaquil,141
+.NET Developer,BairesDev SA,Guayaquil,194
+.NET Architect,BairesDev SA,Guayaquil,46
+Senior Project Manager,BairesDev SA,Guayaquil,150
+React Tech Lead,BairesDev SA,Guayaquil,73
+React Developer,BairesDev SA,Guayaquil,65
+React Architect,BairesDev SA,Guayaquil,105
+Node Developer,BairesDev SA,Guayaquil,11
+Node Tech Lead,BairesDev SA,Guayaquil,85
+Node Architect,BairesDev SA,Guayaquil,86
+Python Tech Lead,BairesDev SA,Guayaquil,24
+Python Developer,BairesDev SA,Guayaquil,37
+Python Architect,BairesDev SA,Guayaquil,143
+Asesor ventas,Hydraulic Automation S.A.,Guayaquil,149
+1 Motorizado y 1 Cajera,Cacie Optical S.A.,Cuenca,42
+Recepcionista,TH Competencia,Quito,175
+Asesor ventas,Hydraulic Automation S.A.,Guayaquil,8
+vendedor,DULCES GOXUA,Quito,183
+Ejecutivo de ventas,Wanqara,Quito,19
+Vendedor Mercaderista,"",Quito,63
+Mercaderista,"",Quito,180
+Bodeguero,"",Guayaquil,138
+Diseñador gráfico ilustrador,"",Guayaquil,35
+Asistente de Bodega,"",Cuenca,106
+Asistente Contable,"",Guayaquil,65
+Cajero Vendedor Estibador,"",Guayaquil,92
+Cajero Vendedor,"",Cuenca,177
+Auxiliar de servicios generales,"",Guayaquil,50
+Vendedores/as,VERA CENTENO LEONILA ALEXANDRA,Quito,38
+Marketing Digital,"",Quito,141
+Asesor Técnico de Herramientas,Acero Comercial Ecuatoriano S.A.,Guayaquil,173
+Chofer para Guayaquil,Optimoda,Guayaquil,173
+Administrador/a de propiedad horizontal,Conjunto Parque Alegre,Quito,171
+Coordinador Comercial de Repuestos,FOTON DEL ECUADOR ,Quito,176
+Desarrollador Web FullStack Net Core y Angular,Data360,Quito,130
+Bodeguero,"",Durán,165
+Técnico de proyectos industriales (Expansión),"",Durán,11
+Técnico de calidad  (QA),"",Durán,87
+Oficial de Recuperación / Cobrador,"",Babahoyo,14
+Gestor de presupuestos,"",Durán,122
+Cajero,Cooperativa Jep,Sucúa,112
+Operador de Equipo Industrial,"",Durán,143
+Oficial de Recuperación / Cobrador,"",Gualaceo,5
+Técnico de mantenimiento de equipos industriales,"",Durán,32
+Monitor de Consola,Cooperativa Jep,Cuenca,184
+Chequero,"",Durán,150
+Oficial de Recuperación / Cobrador,"",Santa Isabel,131
+Auxiliar de bodega,"",Durán,86
+Médico veterinario,Fármacos Básicos (BASICFARM) S.A.,Quito,104
+Profesional para atención al paciente en Call Center,"",Quito,111
+Oficial de Negocios,"",Quito,170
+Auxiliar de producción,"",Durán,168
+Profesionales con especialidad en realización de Gasometrías Arteriales,"",Quito,116
+Visitador/a médico,"",Quito,153
+Asistente de Compras e Importaciones,"",Cuenca,160
+Asistente contable,Fármacos Básicos (BASICFARM) S.A.,Quito,171
+Cajero,Cooperativa Jep,Sucúa,30
+Programador Junior SQL Server,Agrosoft S.A.,Guayaquil,25
+Asesor Comercial,"",Ambato,125
+Asesor/a call center,WOLFCENTER,Guayaquil,66
+Oficial de crédito y cobranza,AUTECNA PARTS CIA LTDA,Quito,148
+Vendedora en Mostrador,"",Guayaquil,102
+Gestor de Importaciones,"",Durán,77
+Se solicita personal para multinacional turística,Haydith Yanine Ruiz Ditta,Guayaquil,69
+Asesor y Gestor al cliente,EDUPROYECT PROYECTO GLOBAL DEL ECUADOR S.A.,Quito,36
+RecibIdor/a pagador,"",Babahoyo,184
+Asistente de Mantenimiento,"",Guayaquil,111
+Obrero de Planta con discapacidad,Italimentos Cía. Ltda.,Cuenca,85
+Director General de Retail,Pervolare S. A.,Quito,10
+Programa Jóvenes Talentos,Computadores y equipos,Guayaquil,54
+Ingeniero en Sistemas,"",Cuenca,12
+Médico veterinario,"",Guayaquil,164
+Oficial de Cumplimiento,"",Latacunga,81
+Ayudante de Instalación mecánica,COHECO S.A,Cuenca,86
+Ingeniero en sistemas con experiencia en sistemas de seguridad,"",Quito,51
+Cajero/a,Cooperativa Jep,Machala,164
+Diseñador/a Community,"",Guayaquil,70
+Programador Senior en .NET Core y Angular,Agrosoft S.A.,Guayaquil,132
+Asesor Comercial,"",Guayaquil,36
+Operador Call Center y Atención al cliente,Techsoft ,Quito,107
+"Supervisor y Operador, de Callcenter y Servicio al Cliente",Techsoft ,Quito,135
+Vendedor insumos textiles,Etiquetex S.A.,Ambato,134
+Pasante de Diseño Gráfico,"",Quito,25
+Vendedor/a ( fijo o por comisión),Cleantech,Quito,182
+asesor comercial,Flexofama Cia. Ltda.,Quito,163
+Consultor,IDIOMFA CIA LTDA,Cuenca,31
+Asesor Comercial,PEGATANKE,Cuenca,56
+Ejecutivo de Servicio al Cliente,Cooperativa Jep,Cuenca,144
+Administrador de Tienda,"",Huaquillas,88
+Administrador de Tienda,"",Machala,171
+Asesor Comercial,Edificar,Quito,124
+Asesor de ventas de campo,Talent Hunter,Machala,165
+Ingeniero automotriz o técnico automotriz,Bombastic S.A.,Quito,193
+Bodeguero,ASESORCAPT,Ambato,70
+Recaudador,Estudio Jurídico Romero D & Asociados S.A.,Guayaquil,64
+"Laboratorista o Bioquímico Clínico, con experiencia","",Guayaquil,168
+Matricero/a,"",Guayaquil,114
+Desarrollador Asp.Net,GuruSoft,Guayaquil,183
+Technical Support Agent,GuruSoft,Guayaquil,8
+Oficial de Negocios,Cooperativa Jep,Gualaceo,60
+Pasante administrativo/a,ECUA CONSORCIO CONSORCIODELECUADOR S.A.,Quito,158
+Oficial de Negocios,"",Quito,166
+Auditor de campo / Encuestador,"",Portoviejo,199
+tecnico mecanico,OXIGENOS DEL GUAYAS OXIGUAYAS S.A.,Guayaquil,51
+Chofer Vendedor,OXIGENOS DEL GUAYAS OXIGUAYAS S.A.,Guayaquil,90
+Ejecutivo/a comercial,Techsoft ,Quito,111
+Pasante en economia y finanzas,COMPAÑIA DE TRANSPORTE DE CARGA PESADA TRANSELREY,Quito,124
+Ejecutiva comercial,"MEDICPOINT RESONANCIA ESPECIALIZADA ,CIA,LTDA",Guayaquil,181
+Vendedor comercial electrodomésticos,Almacén Silvanita,Rumiñahui,6
+Asesor de ventas,"",Quevedo,137
+Oficial de Negocios,Cooperativa Jep,Cuenca,107
+Operador de Equipo Industrial,"",Huaquillas,84
+Oficial de Negocios,"",Guayaquil,186
+Auxiliar de Trade Marketing Guayaquil,Italimentos Cía. Ltda.,Guayaquil,173
+Cajero,"",Portoviejo,170
+Verificador de ATM,Cooperativa Jep,Cuenca,85
+Laboratorista de calidad,Italimentos Cía. Ltda.,Cuenca,92
+Operador de Equipo Industrial,"",Machala,101
+Mensajero,Cooperativa Jep,Cuenca,38
+Coordinador de Investigación y Desarrollo. Empaques,Italimentos Cía. Ltda.,Cuenca,131
+Ing. CPA. Asistente contable con experiencia,"",Quito,130
+Administrador de Tienda,"",Babahoyo,10
+Lic. en laboratorio Clínico (Bioanalísta).,"",Quito,78
+Oficial de Negocios,"",Guayaquil,57
+Cajero Delicatessen Italdeli,Italimentos Cía. Ltda.,Cuenca,56
+Almacen Ferretero,"",Guayaquil,166
+Vendedora,Optiglass,Guayaquil,163
+Almacen Ferretero,"",Guayaquil,40
+Ingenier@ en Sistemas TICS,"",Latacunga,118
+Asesores comerciales,TOPCABLE S.A.,Manta,192
+Asistente Contable con experiencia en servicio al cliente /Quito/,BADENT,Quito,64
+Asesor de ventas telefónico con experiencia,SCALA PERU S.A.C,Quito,93
+Contador sénior,Biz Latin Hub Ecuador,Quito,73
+Cajero,"",Manta,127
+"Desarrollador Senior de Software .Net , PHP y Javascript",Data360,Quito,133
+Cajero,"",Quevedo,115
+Técnico de Mantenimiento,Italimentos Cía. Ltda.,Cuenca,31
+Asistente Administrativo con disponibilidad de tiempo completo horarios rotativos,"",Quito,123
+Coordinador de Talento Humano,Comlasa,Quito,134
+Vendedores,TOPCABLE S.A.,Guayaquil,50
+Agente promotor de ventas,Optiglass,Guayaquil,164
+Técnico Electromecánico,Verzosi S.A.,Guayaquil,55
+Ejecutiva de ventas,INNOFARM,Quito,156
+Cajero Encargado de Tienda,FUSION LATINOAMERICA FUSLAT S.A,Loja,6
+Auxiliar de almacén,"",Guayaquil,131
+Asesor Comisionista Gestión de ventas,TAXI EASY CAR,Quito,51
+Sto. Dgo. Colorados y Cuenca Vendedor de Cobertura,SERTECOMCELL,Santo Domingo,72
+"Finance, Accounting and Banking freelancer",Livingston Research,Ecuador,17
+AYUDANTE DE BODEGA,TuPortalEmpleo,Guayaquil,3
+Recepcionista,Bayteq Cia Ltda,Quito,5
+Bodeguero,Seidlaboratory Cía. Ltda.,Quito,1
+Para Bachiller,Cooperativa Jep,Pichincha,9
+Bodeguero.,Confidencial,Guayaquil,4
+Recepcionista,El Hotel Mark,Pichincha,8
+Recepcionista,Diario El Universo,Guayas,13
+Recepcionista,N/A,Pichincha,11
+Bodeguero,Un Mejor Empleo,Guayas,3
+Ayudante de Bodega,TELCONET LATAM,Quito,11
+Bodeguero,Seidlaboratory Cía. Ltda.,Pichincha,1
+Personal,Diario El Universo,Guayas,9
+Bodeguero,Diario El Universo,Guayas,6
+Solicitamos Personal,Diario El Universo,Guayas,7
+Auxiliar de bodega.,Just-Link,Guayaquil,6
+Personal...,Diario El Universo,Guayas,10
+Recepcionista.,TH Competencia,Quito,2
+AYUDANTE DE BODEGA,TuPortalEmpleo,Guayaquil,3
+Recepcionista,Bayteq Cia Ltda,Quito,5
+Cajero Guayaquil.,Cooperativa Jep,Guayaquil,6
+Bodeguero Archivador,Daz Consulting,Manabí,7
+Personal Para...,Diario El Universo,Guayas,13
+Ayudante de Bodega,Construgypsum Cia. Ltda,Cuenca,10
+Recepcionista.,N/A,Pichincha,17
+Recepcionista de hotel,Novotel Cusco,Santiago,7
+Ayudante De...,Diario El Universo,Guayas,13
+Recepcionista Recepcionist.,Confidencial,Guayaquil,4
+Coordinador De Bodega,N/A,Pichincha,2
+Bodeguero Duran.,Confidencial,Durán,4
+Personal Para Oficina,Diario El Universo,Guayas,7
+Personal Aseo.,Sidealtcomp,Pichincha,12
+ASISTENTE DE BODEGA,TuPortalEmpleo,Guayaquil,13
+Vendedor/Bodeguero,Contalex,Azuay,1
+Jefe De Bodega.,N/A,Pichincha,2
+Personal,Diario El Universo,Guayas,13
+Personal Para...,Diario El Universo,Guayas,13
+Contratación...,Diario El Universo,Guayas,13
+Auxiliar De Bodega.,Laar Cuorier Express,Azuay,4
+Cajero Babahoyo.,Confidencial,Babahoyo,1
+AYUDANTE DE BODEGA,TuPortalEmpleo,Guayaquil,3
+Recepcionista,Bayteq Cia Ltda,Quito,5
+Cajero Guayaquil.,Cooperativa Jep,Guayaquil,6
+Bodeguero Archivador,Daz Consulting,Manabí,7
+Personal Para...,Diario El Universo,Guayas,13
+Ayudante de Bodega,Construgypsum Cia. Ltda,Cuenca,10
+Recepcionista.,N/A,Pichincha,17
+Recepcionista de hotel,Novotel Cusco,Santiago,7
+Ayudante De...,Diario El Universo,Guayas,13
+Recepcionista Recepcionist.,Confidencial,Guayaquil,4
+Coordinador De Bodega,N/A,Pichincha,2
+Bodeguero Duran.,Confidencial,Durán,4
+Personal Para Oficina,Diario El Universo,Guayas,7
+Personal Aseo.,Sidealtcomp,Pichincha,12
+ASISTENTE DE BODEGA,TuPortalEmpleo,Guayaquil,13
+Vendedor/Bodeguero,Contalex,Azuay,1
+Jefe De Bodega.,N/A,Pichincha,2
+Personal,Diario El Universo,Guayas,13
+Personal Para...,Diario El Universo,Guayas,13
+Contratación...,Diario El Universo,Guayas,13
+Auxiliar De Bodega.,Laar Cuorier Express,Azuay,4
+Cajero Babahoyo.,Confidencial,Babahoyo,1
+CAJERO,TuPortalEmpleo,Guayaquil,10
+Cajero,Un Mejor Empleo,Pichincha,13
+Administrativo Recepcionista,Instituto Técnico Superior Libertad,Manabí,15
+Contratación...,Diario El Universo,Guayas,12
+Cajero Chone,TRANSACMUND,Chone,5
+VENDEDOR PARA FLORICOLA,N/A,Pichincha,0
+Oferta laboral,Confidencial,Quito,15
+Ventas Bachiller,Grupowc,Manabí,7
+Auxiliar De Bodega.,Laar Cuorier Express,Cotopaxi,16
+Bodeguero Polifuncional,Un Mejor Empleo,El Oro,13
+BODEGUERO,TuPortalEmpleo,Guayaquil,24
+Se Necesita Personal De Trabajo,N/A,Pichincha,11
+Vacante Laboral,TuPortalEmpleo,Guayaquil,25
+SE REQUIERE PERSONAL EN VENTAS,Confidencial,Quito,11
+Cajero El Coral,Diario El Universo,Guayas,4
+Bodeguero:Ventas,N/A,Pichincha,8
+Personal De Pulido,Diario El Universo,Guayas,13
+Secretaria De Ventas,Hdm Eqluitécnica Cía. Ltda.,Pichincha,3
+Se Requiere Personal Para Ventas,N/A,Guayas,11
+Pasantes Para Varias Áreas,Tipti S.A.,Pichincha,14
+AYUDANTE DE BODEGA,TuPortalEmpleo,Guayaquil,3
+Recepcionista,Bayteq Cia Ltda,Quito,5
+Cajero Guayaquil.,Cooperativa Jep,Guayaquil,6
+Bodeguero Archivador,Daz Consulting,Manabí,7
+Personal Para...,Diario El Universo,Guayas,13
+Ayudante de Bodega,Construgypsum Cia. Ltda,Cuenca,10
+Recepcionista.,N/A,Pichincha,17
+Recepcionista de hotel,Novotel Cusco,Santiago,7
+Ayudante De...,Diario El Universo,Guayas,13
+Recepcionista Recepcionist.,Confidencial,Guayaquil,4
+Coordinador De Bodega,N/A,Pichincha,2
+Bodeguero Duran.,Confidencial,Durán,4
+Personal Para Oficina,Diario El Universo,Guayas,7
+Personal Aseo.,Sidealtcomp,Pichincha,12
+ASISTENTE DE BODEGA,TuPortalEmpleo,Guayaquil,13
+Vendedor/Bodeguero,Contalex,Azuay,1
+Jefe De Bodega.,N/A,Pichincha,2
+Personal,Diario El Universo,Guayas,13
+Personal Para...,Diario El Universo,Guayas,13
+Contratación...,Diario El Universo,Guayas,13
+Auxiliar De Bodega.,Laar Cuorier Express,Azuay,4
+Cajero Babahoyo.,Confidencial,Babahoyo,1
+CAJERO,TuPortalEmpleo,Guayaquil,10
+Cajero,Un Mejor Empleo,Pichincha,13
+Administrativo Recepcionista,Instituto Técnico Superior Libertad,Manabí,15
+Contratación...,Diario El Universo,Guayas,12
+Cajero Chone,TRANSACMUND,Chone,5
+VENDEDOR PARA FLORICOLA,N/A,Pichincha,0
+Oferta laboral,Confidencial,Quito,15
+Ventas Bachiller,Grupowc,Manabí,7
+Auxiliar De Bodega.,Laar Cuorier Express,Cotopaxi,16
+Bodeguero Polifuncional,Un Mejor Empleo,El Oro,13
+BODEGUERO,TuPortalEmpleo,Guayaquil,24
+Se Necesita Personal De Trabajo,N/A,Pichincha,11
+Vacante Laboral,TuPortalEmpleo,Guayaquil,25
+SE REQUIERE PERSONAL EN VENTAS,Confidencial,Quito,11
+Cajero El Coral,Diario El Universo,Guayas,4
+Bodeguero:Ventas,N/A,Pichincha,8
+Personal De Pulido,Diario El Universo,Guayas,13
+Secretaria De Ventas,Hdm Eqluitécnica Cía. Ltda.,Pichincha,3
+Se Requiere Personal Para Ventas,N/A,Guayas,11
+Pasantes Para Varias Áreas,Tipti S.A.,Pichincha,14
+Empleo En Guayaquil,Tiptopjob,Guayas,13
+Personal Para Ventas,Un Mejor Empleo,Pichincha,13
+Personal Discapacitado.,Digeca S.A.,Guayaquil,12
+Personal de Limpieza,MULTICINES S.A.,Guayaquil,16
+Ayudante de bodega,AGRIPAC S.A.,Sangolqui,19
+Auxiliar De Limpieza,Casalimpia,Pichincha,1
+AUXILIAR DE LIMPIEZA,GINSBERG S.A.,Quito,9
+SE NECESITA PERSONAL PARA TRABAJAR,Bebuu,Quito,Hace
+se busca personal para trabajo inmediato pagos de ...,Bebuu,Portoviejo,7
+Auxiliar de bodega Duran.,Confidencial,Durán,2
+AUXILIAR DE BODEGA,BIOGRUPO,Durán,19
+Ayudante De Bodega,N/A,Pichincha,20
+Despachador/A Para Gasolinera.,Estacion De Servicios Reina Del Quinche Mas Gas,Pichincha,18
+Secretaria recepcionista Secretaria.,ITESUT,Loja,20
+Auxiliar De...,Diario El Universo,Guayas,13
+Auxiliar de bodega Quito.,VELEZ GARZON ISABEL VERONICA,Quito,10
+Auxiliar De...,Diario El Universo,Guayas,13
+Auxiliar De Limpieza,N/A,Pichincha,5
+Operario,N/A,Pichincha,11
+Cajera/Recepcionista Multifunción.,Finas Fragancias,Guayas,4
+AYUDANTE DE BODEGA,TuPortalEmpleo,Guayaquil,3
+Recepcionista,Bayteq Cia Ltda,Quito,5
+Cajero Guayaquil.,Cooperativa Jep,Guayaquil,6
+Bodeguero Archivador,Daz Consulting,Manabí,7
+Personal Para...,Diario El Universo,Guayas,13
+Ayudante de Bodega,Construgypsum Cia. Ltda,Cuenca,10
+Recepcionista.,N/A,Pichincha,17
+Recepcionista de hotel,Novotel Cusco,Santiago,7
+Ayudante De...,Diario El Universo,Guayas,13
+Recepcionista Recepcionist.,Confidencial,Guayaquil,4
+Coordinador De Bodega,N/A,Pichincha,2
+Bodeguero Duran.,Confidencial,Durán,4
+Personal Para Oficina,Diario El Universo,Guayas,7
+Personal Aseo.,Sidealtcomp,Pichincha,12
+ASISTENTE DE BODEGA,TuPortalEmpleo,Guayaquil,13
+Vendedor/Bodeguero,Contalex,Azuay,1
+Jefe De Bodega.,N/A,Pichincha,2
+Personal,Diario El Universo,Guayas,13
+Personal Para...,Diario El Universo,Guayas,13
+Contratación...,Diario El Universo,Guayas,13
+Auxiliar De Bodega.,Laar Cuorier Express,Azuay,4
+Cajero Babahoyo.,Confidencial,Babahoyo,1
+CAJERO,TuPortalEmpleo,Guayaquil,10
+Cajero,Un Mejor Empleo,Pichincha,13
+Administrativo Recepcionista,Instituto Técnico Superior Libertad,Manabí,15
+Contratación...,Diario El Universo,Guayas,12
+Cajero Chone,TRANSACMUND,Chone,5
+VENDEDOR PARA FLORICOLA,N/A,Pichincha,0
+Oferta laboral,Confidencial,Quito,15
+Ventas Bachiller,Grupowc,Manabí,7
+Auxiliar De Bodega.,Laar Cuorier Express,Cotopaxi,16
+Bodeguero Polifuncional,Un Mejor Empleo,El Oro,13
+BODEGUERO,TuPortalEmpleo,Guayaquil,24
+Se Necesita Personal De Trabajo,N/A,Pichincha,11
+Vacante Laboral,TuPortalEmpleo,Guayaquil,25
+SE REQUIERE PERSONAL EN VENTAS,Confidencial,Quito,11
+Cajero El Coral,Diario El Universo,Guayas,4
+Bodeguero:Ventas,N/A,Pichincha,8
+Personal De Pulido,Diario El Universo,Guayas,13
+Secretaria De Ventas,Hdm Eqluitécnica Cía. Ltda.,Pichincha,3
+Se Requiere Personal Para Ventas,N/A,Guayas,11
+Pasantes Para Varias Áreas,Tipti S.A.,Pichincha,14
+Empleo En Guayaquil,Tiptopjob,Guayas,13
+Personal Para Ventas,Un Mejor Empleo,Pichincha,13
+Personal Discapacitado.,Digeca S.A.,Guayaquil,12
+Personal de Limpieza,MULTICINES S.A.,Guayaquil,16
+Ayudante de bodega,AGRIPAC S.A.,Sangolqui,19
+Auxiliar De Limpieza,Casalimpia,Pichincha,1
+AUXILIAR DE LIMPIEZA,GINSBERG S.A.,Quito,9
+SE NECESITA PERSONAL PARA TRABAJAR,Bebuu,Quito,Hace
+se busca personal para trabajo inmediato pagos de ...,Bebuu,Portoviejo,7
+Auxiliar de bodega Duran.,Confidencial,Durán,2
+AUXILIAR DE BODEGA,BIOGRUPO,Durán,19
+Ayudante De Bodega,N/A,Pichincha,20
+Despachador/A Para Gasolinera.,Estacion De Servicios Reina Del Quinche Mas Gas,Pichincha,18
+Secretaria recepcionista Secretaria.,ITESUT,Loja,20
+Auxiliar De...,Diario El Universo,Guayas,13
+Auxiliar de bodega Quito.,VELEZ GARZON ISABEL VERONICA,Quito,10
+Auxiliar De...,Diario El Universo,Guayas,13
+Auxiliar De Limpieza,N/A,Pichincha,5
+Operario,N/A,Pichincha,11
+Cajera/Recepcionista Multifunción.,Finas Fragancias,Guayas,4
+Recepcionista Asistente Recepcionista.,Instrupetrol,Pichincha,16
+Bodeguero Experiencia Comprobada.,Matemás Ambato,Tungurahua,2
+Auxiliar de limpieza.,Confidencial,Guayaquil,6
+Auxiliar De Bodega,N/A,Pichincha,20
+PERSONAL PARA EL AREA TECNICA,SOLINTECE CIA LTDA,Rumiñahui,4
+Personal Ambos Sexos,Diario El Universo,Guayas,9
+Auxiliar De Limpieza.,Diario El Universo,Guayas,6
+URGENTE!!! PERSONAL PARA VARIAS AREAS,NEW,Quito,24
+Cajero/a La Troncal.,Cooperativa Jep,La Troncal,6
+Ayudante de Cocina,Swiss Corner,Quito,11
+Bachiller En Contabilidad,Gedatecu Sa,Manabí,17
+Cajero Quto,Cooperativa Jep,Manabí,9
+Auxiliar De Enfermeria,Italimentos Cía. Ltda.,Azuay,1
+Ayudante De Cocina,Café Bombon'S,Guayas,1
+Contratación Inmediata Bonchadores Y Clasificadores,Un Mejor Empleo,Pichincha,13
+Solicitamos Personal Con O Sin Experiencia,N/A,Guayas,7
+Auxiliar De Farmacia,N/A,Pichincha,5
+Cajero Administrador,Un Mejor Empleo,Esmeraldas,13
+Asistente Personal Virtual,Top Adventures Ecuador,Pichincha,9
+Auxiliar De Bodega Con Experiencia.,Ifce Cimentaciones,Guayas,4
+AYUDANTE DE BODEGA,TuPortalEmpleo,Guayaquil,3
+Recepcionista,Bayteq Cia Ltda,Quito,5
+Cajero Guayaquil.,Cooperativa Jep,Guayaquil,6
+Bodeguero Archivador,Daz Consulting,Manabí,7
+Personal Para...,Diario El Universo,Guayas,13
+Ayudante de Bodega,Construgypsum Cia. Ltda,Cuenca,10
+Recepcionista.,N/A,Pichincha,17
+Recepcionista de hotel,Novotel Cusco,Santiago,7
+Ayudante De...,Diario El Universo,Guayas,13
+Recepcionista Recepcionist.,Confidencial,Guayaquil,4
+Coordinador De Bodega,N/A,Pichincha,2
+Bodeguero Duran.,Confidencial,Durán,4
+Personal Para Oficina,Diario El Universo,Guayas,7
+Personal Aseo.,Sidealtcomp,Pichincha,12
+ASISTENTE DE BODEGA,TuPortalEmpleo,Guayaquil,13
+Vendedor/Bodeguero,Contalex,Azuay,1
+Jefe De Bodega.,N/A,Pichincha,2
+Personal,Diario El Universo,Guayas,13
+Personal Para...,Diario El Universo,Guayas,13
+Contratación...,Diario El Universo,Guayas,13
+Auxiliar De Bodega.,Laar Cuorier Express,Azuay,4
+Cajero Babahoyo.,Confidencial,Babahoyo,1
+CAJERO,TuPortalEmpleo,Guayaquil,10
+Cajero,Un Mejor Empleo,Pichincha,13
+Administrativo Recepcionista,Instituto Técnico Superior Libertad,Manabí,15
+Contratación...,Diario El Universo,Guayas,12
+Cajero Chone,TRANSACMUND,Chone,5
+VENDEDOR PARA FLORICOLA,N/A,Pichincha,0
+Oferta laboral,Confidencial,Quito,15
+Ventas Bachiller,Grupowc,Manabí,7
+Auxiliar De Bodega.,Laar Cuorier Express,Cotopaxi,16
+Bodeguero Polifuncional,Un Mejor Empleo,El Oro,13
+BODEGUERO,TuPortalEmpleo,Guayaquil,24
+Se Necesita Personal De Trabajo,N/A,Pichincha,11
+Vacante Laboral,TuPortalEmpleo,Guayaquil,25
+SE REQUIERE PERSONAL EN VENTAS,Confidencial,Quito,11
+Cajero El Coral,Diario El Universo,Guayas,4
+Bodeguero:Ventas,N/A,Pichincha,8
+Personal De Pulido,Diario El Universo,Guayas,13
+Secretaria De Ventas,Hdm Eqluitécnica Cía. Ltda.,Pichincha,3
+Se Requiere Personal Para Ventas,N/A,Guayas,11
+Pasantes Para Varias Áreas,Tipti S.A.,Pichincha,14
+Empleo En Guayaquil,Tiptopjob,Guayas,13
+Personal Para Ventas,Un Mejor Empleo,Pichincha,13
+Personal Discapacitado.,Digeca S.A.,Guayaquil,12
+Personal de Limpieza,MULTICINES S.A.,Guayaquil,16
+Ayudante de bodega,AGRIPAC S.A.,Sangolqui,19
+Auxiliar De Limpieza,Casalimpia,Pichincha,1
+AUXILIAR DE LIMPIEZA,GINSBERG S.A.,Quito,9
+SE NECESITA PERSONAL PARA TRABAJAR,Bebuu,Quito,Hace
+se busca personal para trabajo inmediato pagos de ...,Bebuu,Portoviejo,7
+Auxiliar de bodega Duran.,Confidencial,Durán,2
+AUXILIAR DE BODEGA,BIOGRUPO,Durán,19
+Ayudante De Bodega,N/A,Pichincha,20
+Despachador/A Para Gasolinera.,Estacion De Servicios Reina Del Quinche Mas Gas,Pichincha,18
+Secretaria recepcionista Secretaria.,ITESUT,Loja,20
+Auxiliar De...,Diario El Universo,Guayas,13
+Auxiliar de bodega Quito.,VELEZ GARZON ISABEL VERONICA,Quito,10
+Auxiliar De...,Diario El Universo,Guayas,13
+Auxiliar De Limpieza,N/A,Pichincha,5
+Operario,N/A,Pichincha,11
+Cajera/Recepcionista Multifunción.,Finas Fragancias,Guayas,4
+Recepcionista Asistente Recepcionista.,Instrupetrol,Pichincha,16
+Bodeguero Experiencia Comprobada.,Matemás Ambato,Tungurahua,2
+Auxiliar de limpieza.,Confidencial,Guayaquil,6
+Auxiliar De Bodega,N/A,Pichincha,20
+PERSONAL PARA EL AREA TECNICA,SOLINTECE CIA LTDA,Rumiñahui,4
+Personal Ambos Sexos,Diario El Universo,Guayas,9
+Auxiliar De Limpieza.,Diario El Universo,Guayas,6
+URGENTE!!! PERSONAL PARA VARIAS AREAS,NEW,Quito,24
+Cajero/a La Troncal.,Cooperativa Jep,La Troncal,6
+Ayudante de Cocina,Swiss Corner,Quito,11
+Bachiller En Contabilidad,Gedatecu Sa,Manabí,17
+Cajero Quto,Cooperativa Jep,Manabí,9
+Auxiliar De Enfermeria,Italimentos Cía. Ltda.,Azuay,1
+Ayudante De Cocina,Café Bombon'S,Guayas,1
+Contratación Inmediata Bonchadores Y Clasificadores,Un Mejor Empleo,Pichincha,13
+Solicitamos Personal Con O Sin Experiencia,N/A,Guayas,7
+Auxiliar De Farmacia,N/A,Pichincha,5
+Cajero Administrador,Un Mejor Empleo,Esmeraldas,13
+Asistente Personal Virtual,Top Adventures Ecuador,Pichincha,9
+Auxiliar De Bodega Con Experiencia.,Ifce Cimentaciones,Guayas,4
+CAJERA,Disther C. Ltda.,Guayaquil,12
+Administrativoa Recepcionista Hotel,Surediagnostics Cia. Ltda.,Manabí,9
+Bodega Cargador,N/A,Pichincha,7
+EMPRESA BUSCA PERSONAL PUERTA A PUERTA,EDICIONES MILMAR,Guayas,3
+Encargado/A De Bodega Encargado De Bodega Y Compras.,Seing Proaño Cia. Ltda.,Pichincha,9
+Bachiller En Ciencias Sociale,Nestle,Guayas,9
+Cajero/A Cuenca.,Cooperativa Jep,Azuay,18
+Ayudante Carpintero,Distribuidora Oroplast,Manabí,9
+Ayudante De Ventas,Diario El Universo,Pichincha,6
+Cajero/A Quevedo.,Cooperativa Jep,Los Ríos,18
+SUPERVISOR DE BODEGA,TuPortalEmpleo,Guayaquil,24
+Cajera,N/A,Pichincha,8
+Auxiliar De Farmacia,Farmacias Santa Martha,Imbabura,1
+Auxiliar De Procesos,N/A,Guayas,4
+Operario Cortador Y Digitador,Un Mejor Empleo,Pichincha,9
+Tuti Guayaquil,Samadi Guayaquil,Guayas,9
+Ayudante De Bodega Con Experiencia,Diario El Universo,Bolívar,13
+Vendedora O Vendedor Para Multinacional Ecuador,N/A,Pichincha,8
+Auxiliar De Farmacia,Farmacias Vida,Guayas,9
+Ayudante De Calidad,N/A,Pichincha,10
+Recepcionista,Bayteq Cia Ltda,Quito,5
+Cajero Guayaquil.,Cooperativa Jep,Guayaquil,6
+Bodeguero Archivador,Daz Consulting,Manabí,7
+Personal Para...,Diario El Universo,Guayas,13
+Ayudante de Bodega,Construgypsum Cia. Ltda,Cuenca,10
+Recepcionista.,N/A,Pichincha,17
+Recepcionista de hotel,Novotel Cusco,Santiago,7
+Ayudante De...,Diario El Universo,Guayas,13
+Recepcionista Recepcionist.,Confidencial,Guayaquil,4
+Coordinador De Bodega,N/A,Pichincha,2
+Bodeguero Duran.,Confidencial,Durán,4
+Personal Para Oficina,Diario El Universo,Guayas,7
+Personal Aseo.,Sidealtcomp,Pichincha,12
+ASISTENTE DE BODEGA,TuPortalEmpleo,Guayaquil,13
+Vendedor/Bodeguero,Contalex,Azuay,1
+Jefe De Bodega.,N/A,Pichincha,2
+Personal,Diario El Universo,Guayas,13
+Personal Para...,Diario El Universo,Guayas,13
+Contratación...,Diario El Universo,Guayas,13
+Auxiliar De Bodega.,Laar Cuorier Express,Azuay,4
+Cajero Babahoyo.,Confidencial,Babahoyo,1
+CAJERO,TuPortalEmpleo,Guayaquil,10
+Cajero,Un Mejor Empleo,Pichincha,13
+Administrativo Recepcionista,Instituto Técnico Superior Libertad,Manabí,15
+Contratación...,Diario El Universo,Guayas,12
+Cajero Chone,TRANSACMUND,Chone,5
+VENDEDOR PARA FLORICOLA,N/A,Pichincha,0
+Oferta laboral,Confidencial,Quito,15
+Ventas Bachiller,Grupowc,Manabí,7
+Auxiliar De Bodega.,Laar Cuorier Express,Cotopaxi,16
+Bodeguero Polifuncional,Un Mejor Empleo,El Oro,13
+BODEGUERO,TuPortalEmpleo,Guayaquil,24
+Se Necesita Personal De Trabajo,N/A,Pichincha,11
+Vacante Laboral,TuPortalEmpleo,Guayaquil,25
+SE REQUIERE PERSONAL EN VENTAS,Confidencial,Quito,11
+Cajero El Coral,Diario El Universo,Guayas,4
+Bodeguero:Ventas,N/A,Pichincha,8
+Personal De Pulido,Diario El Universo,Guayas,13
+Secretaria De Ventas,Hdm Eqluitécnica Cía. Ltda.,Pichincha,3
+Se Requiere Personal Para Ventas,N/A,Guayas,11
+Pasantes Para Varias Áreas,Tipti S.A.,Pichincha,14
+Empleo En Guayaquil,Tiptopjob,Guayas,13
+Personal Para Ventas,Un Mejor Empleo,Pichincha,13
+Personal Discapacitado.,Digeca S.A.,Guayaquil,12
+Personal de Limpieza,MULTICINES S.A.,Guayaquil,16
+Ayudante de bodega,AGRIPAC S.A.,Sangolqui,19
+Auxiliar De Limpieza,Casalimpia,Pichincha,1
+AUXILIAR DE LIMPIEZA,GINSBERG S.A.,Quito,9
+SE NECESITA PERSONAL PARA TRABAJAR,Bebuu,Quito,Hace
+se busca personal para trabajo inmediato pagos de ...,Bebuu,Portoviejo,7
+Auxiliar de bodega Duran.,Confidencial,Durán,2
+AUXILIAR DE BODEGA,BIOGRUPO,Durán,19
+Ayudante De Bodega,N/A,Pichincha,20
+Despachador/A Para Gasolinera.,Estacion De Servicios Reina Del Quinche Mas Gas,Pichincha,18
+Secretaria recepcionista Secretaria.,ITESUT,Loja,20
+Auxiliar De...,Diario El Universo,Guayas,13
+Auxiliar de bodega Quito.,VELEZ GARZON ISABEL VERONICA,Quito,10
+Auxiliar De...,Diario El Universo,Guayas,13
+Auxiliar De Limpieza,N/A,Pichincha,5
+Operario,N/A,Pichincha,11
+Cajera/Recepcionista Multifunción.,Finas Fragancias,Guayas,4
+Recepcionista Asistente Recepcionista.,Instrupetrol,Pichincha,16
+Bodeguero Experiencia Comprobada.,Matemás Ambato,Tungurahua,2
+Auxiliar de limpieza.,Confidencial,Guayaquil,6
+Auxiliar De Bodega,N/A,Pichincha,20
+PERSONAL PARA EL AREA TECNICA,SOLINTECE CIA LTDA,Rumiñahui,4
+Personal Ambos Sexos,Diario El Universo,Guayas,9
+Auxiliar De Limpieza.,Diario El Universo,Guayas,6
+URGENTE!!! PERSONAL PARA VARIAS AREAS,NEW,Quito,24
+Cajero/a La Troncal.,Cooperativa Jep,La Troncal,6
+Ayudante de Cocina,Swiss Corner,Quito,11
+Bachiller En Contabilidad,Gedatecu Sa,Manabí,17
+Cajero Quto,Cooperativa Jep,Manabí,9
+Auxiliar De Enfermeria,Italimentos Cía. Ltda.,Azuay,1
+Ayudante De Cocina,Café Bombon'S,Guayas,1
+Contratación Inmediata Bonchadores Y Clasificadores,Un Mejor Empleo,Pichincha,13
+Solicitamos Personal Con O Sin Experiencia,N/A,Guayas,7
+Auxiliar De Farmacia,N/A,Pichincha,5
+Cajero Administrador,Un Mejor Empleo,Esmeraldas,13
+Asistente Personal Virtual,Top Adventures Ecuador,Pichincha,9
+Auxiliar De Bodega Con Experiencia.,Ifce Cimentaciones,Guayas,4
+CAJERA,Disther C. Ltda.,Guayaquil,12
+Administrativoa Recepcionista Hotel,Surediagnostics Cia. Ltda.,Manabí,9
+Bodega Cargador,N/A,Pichincha,7
+EMPRESA BUSCA PERSONAL PUERTA A PUERTA,EDICIONES MILMAR,Guayas,3
+Encargado/A De Bodega Encargado De Bodega Y Compras.,Seing Proaño Cia. Ltda.,Pichincha,9
+Bachiller En Ciencias Sociale,Nestle,Guayas,9
+Cajero/A Cuenca.,Cooperativa Jep,Azuay,18
+Ayudante Carpintero,Distribuidora Oroplast,Manabí,9
+Ayudante De Ventas,Diario El Universo,Pichincha,6
+Cajero/A Quevedo.,Cooperativa Jep,Los Ríos,18
+SUPERVISOR DE BODEGA,TuPortalEmpleo,Guayaquil,24
+Cajera,N/A,Pichincha,8
+Auxiliar De Farmacia,Farmacias Santa Martha,Imbabura,1
+Auxiliar De Procesos,N/A,Guayas,4
+Operario Cortador Y Digitador,Un Mejor Empleo,Pichincha,9
+Tuti Guayaquil,Samadi Guayaquil,Guayas,9
+Ayudante De Bodega Con Experiencia,Diario El Universo,Bolívar,13
+Vendedora O Vendedor Para Multinacional Ecuador,N/A,Pichincha,8
+Auxiliar De Farmacia,Farmacias Vida,Guayas,9
+Ayudante De Calidad,N/A,Pichincha,10
+Cajero Bancario,Cooperativa Jep,Manabí,17
+Ayudante Para Producción,Koinobori Cia. Ltda.,Manabí,11
+Cajera,Diario El Universo,Guayas,13
+Auxiliar De Laboratorio,Un Mejor Empleo,Pichincha,9
+Asistente Cartera/Recepcionista,Un Mejor Empleo,Pichincha,12
+Vendedor Áreas técnicasconstrucciónindustrial,Ingerieria y Diseño Electronico,Quito,9
+Jefe de Bodega,TuPortalEmpleo,Guayaquil,25
+Auxiliar de Metalmecánica.,INDUSTRIAS METALICAS DECORATIVAS,Quito,9
+Mercaderista Guayaquil,N/A,Pichincha,5
+Bodeguero Ferretero,Grupo Comercial Orbea,Manabí,19
+Cajero Financiero Loja,Cooperativa De Ahorro Y Credito Crea Ltda,Loja,1
+Se Necesita Odontologo/A Con Experiencia Contratación Inmediata.,Consultorio Dental Pro-Dent,Guayas,12
+AUXILIAR DE LIMPIEZA,TuPortalEmpleo,Guayaquil,10
+AUXILIAR DE LIMPIEZA,TuPortalEmpleo,Durán,12
+Cajero Manta.,Confidencial,Manta,19
+CAJERA - VENDEDORA,DKASA DESIGN,Guayas,10
+Auxiliar de Limpieza,PRODUMAR S.A.,Salinas,16
+Personal de seguridad,TuPortalEmpleo,Guayaquil,26
+AUXILIAR DE MONITOREO,TuPortalEmpleo,Guayaquil,12
+Cajero/a Cuenca.,Cooperativa Jep,Cuenca,20
+Recepcionista,Bayteq Cia Ltda,Quito,5
+Cajero Guayaquil.,Cooperativa Jep,Guayaquil,6
+Bodeguero Archivador,Daz Consulting,Manabí,7
+Personal Para...,Diario El Universo,Guayas,13
+Ayudante de Bodega,Construgypsum Cia. Ltda,Cuenca,10
+Recepcionista.,N/A,Pichincha,17
+Recepcionista de hotel,Novotel Cusco,Santiago,7
+Ayudante De...,Diario El Universo,Guayas,13
+Recepcionista Recepcionist.,Confidencial,Guayaquil,4
+Coordinador De Bodega,N/A,Pichincha,2
+Bodeguero Duran.,Confidencial,Durán,4
+Personal Para Oficina,Diario El Universo,Guayas,7
+Personal Aseo.,Sidealtcomp,Pichincha,12
+ASISTENTE DE BODEGA,TuPortalEmpleo,Guayaquil,13
+Vendedor/Bodeguero,Contalex,Azuay,1
+Jefe De Bodega.,N/A,Pichincha,2
+Personal,Diario El Universo,Guayas,13
+Personal Para...,Diario El Universo,Guayas,13
+Contratación...,Diario El Universo,Guayas,13
+Auxiliar De Bodega.,Laar Cuorier Express,Azuay,4
+Cajero Babahoyo.,Confidencial,Babahoyo,1
+CAJERO,TuPortalEmpleo,Guayaquil,10
+Cajero,Un Mejor Empleo,Pichincha,13
+Administrativo Recepcionista,Instituto Técnico Superior Libertad,Manabí,15
+Contratación...,Diario El Universo,Guayas,12
+Cajero Chone,TRANSACMUND,Chone,5
+VENDEDOR PARA FLORICOLA,N/A,Pichincha,0
+Oferta laboral,Confidencial,Quito,15
+Ventas Bachiller,Grupowc,Manabí,7
+Auxiliar De Bodega.,Laar Cuorier Express,Cotopaxi,16
+Bodeguero Polifuncional,Un Mejor Empleo,El Oro,13
+BODEGUERO,TuPortalEmpleo,Guayaquil,24
+Se Necesita Personal De Trabajo,N/A,Pichincha,11
+Vacante Laboral,TuPortalEmpleo,Guayaquil,25
+SE REQUIERE PERSONAL EN VENTAS,Confidencial,Quito,11
+Cajero El Coral,Diario El Universo,Guayas,4
+Bodeguero:Ventas,N/A,Pichincha,8
+Personal De Pulido,Diario El Universo,Guayas,13
+Secretaria De Ventas,Hdm Eqluitécnica Cía. Ltda.,Pichincha,3
+Se Requiere Personal Para Ventas,N/A,Guayas,11
+Pasantes Para Varias Áreas,Tipti S.A.,Pichincha,14
+Empleo En Guayaquil,Tiptopjob,Guayas,13
+Personal Para Ventas,Un Mejor Empleo,Pichincha,13
+Personal Discapacitado.,Digeca S.A.,Guayaquil,12
+Personal de Limpieza,MULTICINES S.A.,Guayaquil,16
+Ayudante de bodega,AGRIPAC S.A.,Sangolqui,19
+Auxiliar De Limpieza,Casalimpia,Pichincha,1
+AUXILIAR DE LIMPIEZA,GINSBERG S.A.,Quito,9
+SE NECESITA PERSONAL PARA TRABAJAR,Bebuu,Quito,Hace
+se busca personal para trabajo inmediato pagos de ...,Bebuu,Portoviejo,7
+Auxiliar de bodega Duran.,Confidencial,Durán,2
+AUXILIAR DE BODEGA,BIOGRUPO,Durán,19
+Ayudante De Bodega,N/A,Pichincha,20
+Despachador/A Para Gasolinera.,Estacion De Servicios Reina Del Quinche Mas Gas,Pichincha,18
+Secretaria recepcionista Secretaria.,ITESUT,Loja,20
+Auxiliar De...,Diario El Universo,Guayas,13
+Auxiliar de bodega Quito.,VELEZ GARZON ISABEL VERONICA,Quito,10
+Auxiliar De...,Diario El Universo,Guayas,13
+Auxiliar De Limpieza,N/A,Pichincha,5
+Operario,N/A,Pichincha,11
+Cajera/Recepcionista Multifunción.,Finas Fragancias,Guayas,4
+Recepcionista Asistente Recepcionista.,Instrupetrol,Pichincha,16
+Bodeguero Experiencia Comprobada.,Matemás Ambato,Tungurahua,2
+Auxiliar de limpieza.,Confidencial,Guayaquil,6
+Auxiliar De Bodega,N/A,Pichincha,20
+PERSONAL PARA EL AREA TECNICA,SOLINTECE CIA LTDA,Rumiñahui,4
+Personal Ambos Sexos,Diario El Universo,Guayas,9
+Auxiliar De Limpieza.,Diario El Universo,Guayas,6
+URGENTE!!! PERSONAL PARA VARIAS AREAS,NEW,Quito,24
+Cajero/a La Troncal.,Cooperativa Jep,La Troncal,6
+Ayudante de Cocina,Swiss Corner,Quito,11
+Bachiller En Contabilidad,Gedatecu Sa,Manabí,17
+Cajero Quto,Cooperativa Jep,Manabí,9
+Auxiliar De Enfermeria,Italimentos Cía. Ltda.,Azuay,1
+Ayudante De Cocina,Café Bombon'S,Guayas,1
+Contratación Inmediata Bonchadores Y Clasificadores,Un Mejor Empleo,Pichincha,13
+Solicitamos Personal Con O Sin Experiencia,N/A,Guayas,7
+Auxiliar De Farmacia,N/A,Pichincha,5
+Cajero Administrador,Un Mejor Empleo,Esmeraldas,13
+Asistente Personal Virtual,Top Adventures Ecuador,Pichincha,9
+Auxiliar De Bodega Con Experiencia.,Ifce Cimentaciones,Guayas,4
+CAJERA,Disther C. Ltda.,Guayaquil,12
+Administrativoa Recepcionista Hotel,Surediagnostics Cia. Ltda.,Manabí,9
+Bodega Cargador,N/A,Pichincha,7
+EMPRESA BUSCA PERSONAL PUERTA A PUERTA,EDICIONES MILMAR,Guayas,3
+Encargado/A De Bodega Encargado De Bodega Y Compras.,Seing Proaño Cia. Ltda.,Pichincha,9
+Bachiller En Ciencias Sociale,Nestle,Guayas,9
+Cajero/A Cuenca.,Cooperativa Jep,Azuay,18
+Ayudante Carpintero,Distribuidora Oroplast,Manabí,9
+Ayudante De Ventas,Diario El Universo,Pichincha,6
+Cajero/A Quevedo.,Cooperativa Jep,Los Ríos,18
+SUPERVISOR DE BODEGA,TuPortalEmpleo,Guayaquil,24
+Cajera,N/A,Pichincha,8
+Auxiliar De Farmacia,Farmacias Santa Martha,Imbabura,1
+Auxiliar De Procesos,N/A,Guayas,4
+Operario Cortador Y Digitador,Un Mejor Empleo,Pichincha,9
+Tuti Guayaquil,Samadi Guayaquil,Guayas,9
+Ayudante De Bodega Con Experiencia,Diario El Universo,Bolívar,13
+Vendedora O Vendedor Para Multinacional Ecuador,N/A,Pichincha,8
+Auxiliar De Farmacia,Farmacias Vida,Guayas,9
+Ayudante De Calidad,N/A,Pichincha,10
+Cajero Bancario,Cooperativa Jep,Manabí,17
+Ayudante Para Producción,Koinobori Cia. Ltda.,Manabí,11
+Cajera,Diario El Universo,Guayas,13
+Auxiliar De Laboratorio,Un Mejor Empleo,Pichincha,9
+Asistente Cartera/Recepcionista,Un Mejor Empleo,Pichincha,12
+Vendedor Áreas técnicasconstrucciónindustrial,Ingerieria y Diseño Electronico,Quito,9
+Jefe de Bodega,TuPortalEmpleo,Guayaquil,25
+Auxiliar de Metalmecánica.,INDUSTRIAS METALICAS DECORATIVAS,Quito,9
+Mercaderista Guayaquil,N/A,Pichincha,5
+Bodeguero Ferretero,Grupo Comercial Orbea,Manabí,19
+Cajero Financiero Loja,Cooperativa De Ahorro Y Credito Crea Ltda,Loja,1
+Se Necesita Odontologo/A Con Experiencia Contratación Inmediata.,Consultorio Dental Pro-Dent,Guayas,12
+AUXILIAR DE LIMPIEZA,TuPortalEmpleo,Guayaquil,10
+AUXILIAR DE LIMPIEZA,TuPortalEmpleo,Durán,12
+Cajero Manta.,Confidencial,Manta,19
+CAJERA - VENDEDORA,DKASA DESIGN,Guayas,10
+Auxiliar de Limpieza,PRODUMAR S.A.,Salinas,16
+Personal de seguridad,TuPortalEmpleo,Guayaquil,26
+AUXILIAR DE MONITOREO,TuPortalEmpleo,Guayaquil,12
+Cajero/a Cuenca.,Cooperativa Jep,Cuenca,20
+Ayudante De Bodega Ferreteria.,Distribuidora Oroplast,Pichincha,18
+Cajero/a Machala.,Cooperativa Jep,Machala,23
+Bodeguero,GLOW BEAUTY BAR,Guayaquil,Hace
+Ayudante De Reparto,N/A,Pichincha,14
+ASISTENTE DE BODEGA PRODUCTO TERMINADO,GINSBERG S.A.,Quito,3
+OPERARIO DE DETAILING,FIBRECSA CIA. LTDA,Quito,9
+DIGITADOR (QUEVEDO),INSOTEC,Quevedo,9
+Ayudante De Torno,Diario El Universo,Guayas,13
+Ayudante de Bodega para Pifo,N/A,Quito,20
+AUXILIAR DE LIMPIEZA,iNPRO,Guayaquil,16
+Cajero para tienda de retail,JustLink,Guayaquil,6
+Operario De Produccion,N/A,Pichincha,11
+Asistentes De Bodega De Frio,Knowledge And Jobs,Guayas,18
+Ayudante Distribución Ayudante de ruta.,Confidencial,Quito,4
+Urgente Requiero Personal Para Trabajar Desde Casa,Distribuidora Flipper S.A.,Manabí,15
+Bodeguero,Moderna Alimentos S.A,Quito,Hace
+Ayudante De Almcen,Diario El Universo,Imbabura,16
+"ASISTENTE DE SUSCRIPCIÓN, GUAYAQUIL",BMI,Guayaquil,4
+Auxiliar De Farmacia,Lan Aerofumigacion,Los Ríos,15
+Auxiliar De Importaciones,Un Mejor Empleo,Pichincha,13
