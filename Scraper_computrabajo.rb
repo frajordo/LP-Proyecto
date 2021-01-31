@@ -1,4 +1,4 @@
-require 'open-uri'
+#require 'open-uri'
 require 'nokogiri'
 require './empleo.rb'
 require 'csv'
@@ -15,7 +15,7 @@ class Scraper_computrabajo
 
     while(page<= paginas)
       url= "https://www.computrabajo.com.ec/ofertas-de-trabajo/?p=#{page}"
-      web = open(url)
+      web = URI.open(url)
       data = web.read
       parsed_content = Nokogiri::HTML (data)
       inf_container = parsed_content.css('.bRS.bClick')
@@ -55,8 +55,6 @@ class Scraper_computrabajo
         puts "Direccion(ciudad, provincia): #{node.at_css('span[itemprop="addressLocality"]').inner_text}, #{provincia}"
         puts "trabajo: #{trabajo}"
         
-        curso = Empleo.new(trabajo, empleador,"N/A", provincia, tiempo_publicacion, "N/A")
-
         csv = CSV.open("-Ecuador.csv", 'ab')
         csv << [trabajo, empleador, provincia, tiempo_publicacion, descripcion]
 
