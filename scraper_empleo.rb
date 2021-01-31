@@ -1,12 +1,11 @@
-require 'open-uri'
 require 'nokogiri'
 require 'csv'
 require_relative "empleo.rb"
 
 def registrar_CSV(empleos)
-  CSV.open('prueba.csv', 'ab') do |csv|
+  CSV.open('-Ecuador.csv', 'ab') do |csv|
     empleos.each { |empleo|
-     csv << [empleo.trabajo, empleo.empleador, empleo.localizacion, empleo.tiempo_publicacion, empleo.descripcion]
+     csv << [empleo.trabajo, empleo.empleador, empleo.localizacion, empleo.tiempo_publicacion]
     }
   end
 end
@@ -16,10 +15,9 @@ class ScraperEmpleo
   @@empleos = []
 
   def extraer(ubicacion)
-    print(@@pagina)   
     url = "https://ec.jooble.org/SearchResult?p=#{@@pagina}&rgns=#{ubicacion}"
     if @@pagina < 9
-      courseraHTML = open(url)
+      courseraHTML = URI.open(url)
       parsed_content = Nokogiri::HTML(courseraHTML)
       unorder_list = parsed_content.css('._70404 div')
       unorder_list.css('._31572').each do |trabajos|
@@ -29,11 +27,9 @@ class ScraperEmpleo
 
         seccion = trabajos.css('._77886')
         empresa = seccion.css('.f388a div').css('.companyInfo__link .caption').inner_text[0..-1]
-        descripcion = seccion.css('._0b1c1').inner_text[0..-1]
+        # descripcion = seccion.css('._0b1c1').inner_text[0..-1]
         if empresa == ""
           empresa = "N/A"
-        elsif descripcion == ""
-          descripcion = seccion.css('._0b1c1 span').inner_text[0..-1]
         end
         lugar = nil
         tiempo_publicacion = nil
@@ -53,7 +49,7 @@ class ScraperEmpleo
             end
           end
         end        
-        trabajo = Empleo.new(titulo, empresa, lugar, tiempo_publicacion, descripcion)
+        trabajo = Empleo.new(titulo, empresa, lugar, tiempo_publicacion)
         @@empleos.append(trabajo)   
       end
       @@pagina = @@pagina + 1
