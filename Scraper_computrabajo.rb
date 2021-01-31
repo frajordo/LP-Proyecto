@@ -48,12 +48,6 @@ class Scraper_computrabajo
         else
           tiempo_publicacion = "#{random.rand(3..200)}"
         end
-
-        puts "Fecha: #{tiempo_publicacion}"
-        puts "Empresa: #{empleador}"
-        puts "descripcion: #{descripcion}"
-        puts "Direccion(ciudad, provincia): #{node.at_css('span[itemprop="addressLocality"]').inner_text}, #{provincia}"
-        puts "trabajo: #{trabajo}"
         
         csv = CSV.open("-Ecuador.csv", 'ab')
         csv << [trabajo, empleador, provincia, tiempo_publicacion, descripcion]
