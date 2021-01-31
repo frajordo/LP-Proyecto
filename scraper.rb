@@ -12,7 +12,7 @@ class Scraper
     array=[]
     #carrera[" "]="+"
     html=URI.open("https://www.opcionempleo.ec/buscar/empleos?s="+carrera+"&l="+lugar+"&radius=10&sort=relevance")
-    for i in 0..9
+    for i in 0..19
       doc=Nokogiri::HTML(html.read)
       code=doc.css("ul.jobs")
       code=code.css("article.job.clicky")
@@ -23,7 +23,6 @@ class Scraper
       code.each do |desc|
         
         job=desc.css("a").first["title"]
-        link=desc.css("a").first["href"]
         company=desc.search("p.company").text
         if company==""
           company="N/A"
@@ -40,8 +39,7 @@ class Scraper
           date=date.to_i * 30
           date=date.to_s
         end
-        brief=desc.css("div.desc").text.strip
-        oferta=Oferta.new(job, company, location, brief,link,date)
+        oferta=Oferta.new(job, company, location,date)
         array.append(oferta)
         #job=job.strip()
         #array.append(job)
@@ -57,9 +55,9 @@ class Scraper
 
  def registro(carrera, lugar, array)
     CSV.open(carrera+"-"+lugar+".csv", "w",encoding: "utf-8") do |csv|
-      csv << ["Trabajo","Empleador","Localizacion","Fecha","Descripción"]
+      csv << ["Trabajo","Empleador","Localizacion","Fecha"]
       array.each { |item|
-        csv << [item.getJob, item.getCompany, item.getLocation,item.getDate , item.getBrief]
+        csv << [item.getJob, item.getCompany, item.getLocation,item.getDate]
       }
     end
   end

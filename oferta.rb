@@ -2,12 +2,10 @@
 class Oferta
 
   #Constructor
-  def initialize(job, company, location, brief, link, date)
+  def initialize(job, company, location, date)
     @job=job
     @company=company
     @location=location
-    @brief=brief
-    @link=link
     @date=date
   end
 
@@ -22,18 +20,6 @@ class Oferta
 
   def getLocation
     @location
-  end
-
-  def getBrief
-    @brief
-  end
-
-  def getCompany
-    @company
-  end
-
-  def getLink
-    @link
   end
 
   def getDate
@@ -54,19 +40,8 @@ class Oferta
     @location=value
   end
 
-  def setBrief=(value)
-    @brief=value
-  end
 
-  def setCompany=(value)
-    @company=value
-  end
-
-  def setLink=(value)
-    @link=value
-  end
-
-  def setLink=(value)
+  def setDate=(value)
     @date=value
   end
 

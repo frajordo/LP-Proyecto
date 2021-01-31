@@ -20,7 +20,7 @@ class Scraper_computrabajo
       parsed_content = Nokogiri::HTML (data)
       inf_container = parsed_content.css('.bRS.bClick')
       inf_container.each do |node|
-        puts "page #{page}************************************************"
+        #puts "page #{page}************************************************"
 
         trabajo = node.at_css('.js-o-link')
         trabajo == nil ? trabajo = "N/A" : trabajo = trabajo.inner_text
@@ -52,7 +52,7 @@ class Scraper_computrabajo
         curso = Empleo.new(trabajo, empleador, provincia, tiempo_publicacion, "N/A")
 
         csv = CSV.open("-Ecuador.csv", 'ab')
-        csv << [trabajo, empleador, provincia, tiempo_publicacion, descripcion]
+        csv << [trabajo, empleador, provincia, tiempo_publicacion]
 
         ind += 1
       end
