@@ -30,6 +30,9 @@ class Scraper_computrabajo
 
         empleador = node.at_css('.it-blank')
         empleador == nil ? empleador = "N/A" : empleador = empleador.inner_text.lstrip
+        if empleador=="" or empleador=='""'
+          empleador="N/A"
+        end
 
         provincia = node.at_css('span[itemprop="addressRegion"]')
         provincia == nil ? provincia = "N/A" : provincia = provincia.inner_text
@@ -57,7 +60,7 @@ class Scraper_computrabajo
           tiempo_publicacion = "#{dias_publicacion}"
         end
         
-        csv = CSV.open("-Ecuador.csv", 'ab')
+        csv = CSV.open("-Ecuador.csv", 'ab',encoding: "utf-8")
         csv << [trabajo, empleador, provincia, tiempo_publicacion]
 
         ind += 1
