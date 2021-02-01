@@ -31,8 +31,8 @@ class Scraper_computrabajo
         empleador = node.at_css('.it-blank')
         empleador == nil ? empleador = "N/A" : empleador = empleador.inner_text.lstrip
 
-        provincia = node.at_css('span[itemprop="addressRegion"]')
-        provincia == nil ? provincia = "N/A" : provincia = provincia.inner_text
+        ciudad = node.at_css('span[itemprop="addressLocality"]')
+        ciudad == nil ? ciudad = "N/A" : ciudad = ciudad.inner_text
 
         descripcion = node.at_css('p')
         descripcion == nil ? descripcion = "N/A" : descripcion = descripcion.inner_text.lstrip
@@ -58,7 +58,7 @@ class Scraper_computrabajo
         end
         
         csv = CSV.open("-Ecuador.csv", 'ab')
-        csv << [trabajo, empleador, provincia, tiempo_publicacion]
+        csv << [trabajo, empleador, ciudad, tiempo_publicacion]
 
         ind += 1
       end
