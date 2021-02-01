@@ -24,7 +24,7 @@ class Scraper
         
         job=desc.css("a").first["title"]
         company=desc.search("p.company").text
-        if company==""
+        if company=="" or company=='""'
           company="N/A"
         end
         location=desc.css("ul.details").css("li").first.text.strip
@@ -50,6 +50,7 @@ class Scraper
     end
     self.registro(carrera,lugar,array)
     #puts array
+    puts "Datos extraidos de Opción Emplos exitosamente"
     
   end
 

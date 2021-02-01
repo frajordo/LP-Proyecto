@@ -3,7 +3,7 @@ require 'csv'
 require_relative "empleo.rb"
 
 def registrar_CSV(empleos)
-  CSV.open('-Ecuador.csv', 'ab') do |csv|
+  CSV.open('-Ecuador.csv', 'ab',encoding: "utf-8") do |csv|
     empleos.each { |empleo|
      csv << [empleo.trabajo, empleo.empleador, empleo.localizacion, empleo.tiempo_publicacion]
     }
