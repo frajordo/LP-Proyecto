@@ -1,6 +1,7 @@
 #Proyecto LP
 install.packages("randomcoloR")
 library("randomcoloR")
+setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 datos=read.csv("../-Ecuador.csv")
 
 #¿Qué empresas/empleadores ofrecen más empleo?
@@ -25,3 +26,22 @@ pie(emplSortedQto[2:7],col = distinctColorPalette(6))
 
 t=sort(table(datos$Fecha),decreasing = TRUE)
 barplot(t[1:10],legend=TRUE,col=distinctColorPalette(10))
+
+
+
+#¿Cuáles son los empleos menos solicitados? 
+#table(datos$Trabajo)
+
+#table(firstletter)
+
+
+
+#¿Qué provincia tiene menor oferta laboral y cuales son esos empleos? 
+  
+
+
+
+
+
+
+
