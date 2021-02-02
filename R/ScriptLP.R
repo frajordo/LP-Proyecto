@@ -4,12 +4,12 @@ library("randomcoloR")
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 datos=read.csv("../-Ecuador.csv")
 
-#�Qu� empresas/empleadores ofrecen m�s empleo?
+#que empresas/empleadores ofrecen m�s empleo?
 empleadores=table(datos$Empleador)
 emplSorted=sort(empleadores,decreasing=TRUE)
-#Gr�fica de los 10 empleadores con m�s ofertas en todo el ecuador
+#grafica de los 10 empleadores con mas ofertas en todo el ecuador
 barplot(emplSorted[1:10],legend=TRUE, col = distinctColorPalette(10))
-#Gr�fica de los 10 empleadores con m�s ofertas en todo el ecuador sin contar a los N/A
+#grafica de los 10 empleadores con mas ofertas en todo el ecuador sin contar a los N/A
 barplot(emplSorted[2:11],legend=TRUE, col = distinctColorPalette(10))
 #Guayaquil
 guayaquil=datos[datos$Localizacion=="Guayaquil",]
@@ -54,8 +54,9 @@ install.packages("tidyr")
 install.packages("readxl")
 install.packages("ggplot2")
 library (ggplot2)
-#---¿Cuál es la provincia con mayor oferta laboral en Ecuador?
+#Cual es la provincia con mayor oferta laboral en Ecuador?
 data <- read.csv('../-Ecuador.csv') #cojer el csv y leerlo
+
 #Conocer la frecuencia con la que se repite cada localizacion
 tabla_lugar <- table(data$Localizacion) 
 write.table(tabla_lugar, 'OfertasLaborables.txt')
@@ -71,7 +72,7 @@ y <- y$`Oferta Laboral`
 barplot(y, main="Localizaciones vs Ofertas Laborables", xlab="Localizacion", ylab="#Ofertas Laborables", names.arg = x, border="blue", density=c(10,20,30,40,50))
 
 
-#----¿Qué carreras son las más buscadas en cada provincia?
+#cuales carreras son las mas buscadas en cada provincia?
 trabajos <- data[,1]
 #se almacena cada trabajo en v
 v <- c()
@@ -101,6 +102,9 @@ TrabajoxLugar <- read.table("TrabajoxLugar.txt")
 TrabajoxLugar <- as.data.frame.matrix(TrabajoxLugar)
 #se separa la columna Var1 en dos
 data_TrabajoxLugar <- within(data=TrabajoxLugar, Position<-data.frame(do.call('rbind',strsplit(as.character(Var1),",",fixed=TRUE))))
+data_TrabajoxLugar <- data_TrabajoxLugar[,-1]
+write.csv(data_TrabajoxLugar, "TrabajoxLugar.csv")
+data_TrabajoxLugar <- read.csv("TrabajoxLugar.csv")
 data_TrabajoxLugar <- data_TrabajoxLugar[,-1]
 names(data_TrabajoxLugar) <- c("Cantidad de Empleos", "Localizacion","Tipo de Trabajo")
 #ordenar por tipo de trabajo
