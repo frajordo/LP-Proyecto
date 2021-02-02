@@ -46,7 +46,7 @@ install.packages("readxl")
 install.packages("ggplot2")
 library (ggplot2)
 #---¿Cuál es la provincia con mayor oferta laboral en Ecuador?
-data <- read.csv('../-Ecuador.csv') //cojer el csv y leerlo
+data <- read.csv('../-Ecuador.csv')
 #Conocer la frecuencia con la que se repite cada localizacion
 tabla_lugar <- table(data$Localizacion) 
 write.table(tabla_lugar, 'OfertasLaborables.txt')
@@ -92,6 +92,9 @@ TrabajoxLugar <- read.table("TrabajoxLugar.txt")
 TrabajoxLugar <- as.data.frame.matrix(TrabajoxLugar)
 #se separa la columna Var1 en dos
 data_TrabajoxLugar <- within(data=TrabajoxLugar, Position<-data.frame(do.call('rbind',strsplit(as.character(Var1),",",fixed=TRUE))))
+data_TrabajoxLugar <- data_TrabajoxLugar[,-1]
+write.csv(data_TrabajoxLugar, "TrabajoxLugar.csv")
+data_TrabajoxLugar <- read.csv("TrabajoxLugar.csv")
 data_TrabajoxLugar <- data_TrabajoxLugar[,-1]
 names(data_TrabajoxLugar) <- c("Cantidad de Empleos", "Localizacion","Tipo de Trabajo")
 #ordenar por tipo de trabajo
