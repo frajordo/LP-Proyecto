@@ -32,16 +32,27 @@ barplot(t[1:10],legend=TRUE,col=distinctColorPalette(10))
 #¿Cuáles son los empleos menos solicitados? 
 #table(datos$Trabajo)
 
-#table(firstletter)
+empleos <- tolower( gsub("([A-Za-z]+).*", "\\1", datos$Trabajo))
+#empleos <- empleos[ -c("graduado", "ingenier", "hca", "importante", "key","l", "lic", "liner", "polifuncional", "portoviejo", "profesionales", "programa", "project", "abogadoa", "necesito", "odont", "php" ,"matriceroa", "multinacional", "bluecard", "ec", "equipamiento", "especialista", "buscamos", "busco", "content", "control"), ]
+frecuecias_empleos <- table(empleos)
 
+empleos_ordenados <- sort(frecuecias_empleos,decreasing=FALSE)
 
+barplot(empleos_ordenados[1:20],legend=TRUE, col = distinctColorPalette(10))
 
-#¿Qué provincia tiene menor oferta laboral y cuales son esos empleos? 
+#¿Qué cantones tiene menor oferta laboral y cuales son esos empleos? 
   
+cantones <- tolower( gsub("([A-Za-z]+).*", "\\1", datos$Localizacion))
+frecuecias_cantones <- table(cantones)
 
+cantones_ordenados <- sort(frecuecias_cantones,decreasing=FALSE)
 
+barplot(cantones_ordenados[1:15],legend=TRUE, col = distinctColorPalette(10))
 
+#empleos menos solicitados en ARENILLAS, MACHACHI, OTAVALO
 
-
+datos[grep("Arenillas", datos$Localizacion),][1]
+datos[grep("Machachi", datos$Localizacion),][1]
+datos[grep("Otavalo", datos$Localizacion),][1]
 
 
