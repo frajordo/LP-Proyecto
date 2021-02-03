@@ -25,7 +25,7 @@ pie(emplSortedQto[2:7],col = distinctColorPalette(6))
 #Tiempo de relevancia de una oferta
 
 t=sort(table(datos$Fecha),decreasing = TRUE)
-barplot(t[1:10],legend=TRUE,col=distinctColorPalette(10))
+plot(t[1:10],col=distinctColorPalette(10),type = "h")
 
 library (ggplot2)
 
