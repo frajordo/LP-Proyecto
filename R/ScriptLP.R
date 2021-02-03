@@ -37,7 +37,7 @@ empleos_ordenados <- sort(frecuecias_empleos,decreasing=FALSE)
 barplot(empleos_ordenados[1:20],legend=TRUE, col = distinctColorPalette(10))
 
 
-#¿Qué cantones tiene menor oferta laboral y cuales son esos empleos? 
+#ï¿½Quï¿½ cantones tiene menor oferta laboral y cuales son esos empleos? 
 cantones <- tolower( gsub("([A-Za-z]+).*", "\\1", datos$Localizacion))
 frecuecias_cantones <- table(cantones)
 cantones_ordenados <- sort(frecuecias_cantones,decreasing=FALSE)
@@ -54,6 +54,7 @@ install.packages("tidyr")
 install.packages("readxl")
 install.packages("ggplot2")
 library (ggplot2)
+library (tidyr)
 #Cual es la provincia con mayor oferta laboral en Ecuador?
 data <- read.csv('../-Ecuador.csv') #cojer el csv y leerlo
 
@@ -120,6 +121,48 @@ data_TrabajoxLugar <- data_TrabajoxLugar[-27,]
 ggplot(data=data_TrabajoxLugar, aes(x=`Tipo de Trabajo`, y=`Cantidad de Empleos`, fill=Localizacion)) + geom_bar(stat="identity")
 
 
+#Empresas que ofrecen mas tipos de empleos
+View(data)
+empleadores_empleos <- data[,-2]
+empleadores_empleos <- empleadores_empleos[,-2]
+empleadores_empleos  <- unite(empleadores_empleos, Empleador_Empleo, c(1:2), sep=",")
+tabla_empleadores_empleos <- table(empleadores_empleos  $Empleador_Empleo)
+write.table(tabla_empleadores_empleos, "EmpleadorXempleo.txt")
+tabla_empleadores_empleos <- read.table("EmpleadorXempleo.txt")
+empleadores_empleos  <- as.data.frame.matrix(tabla_empleadores_empleos)
+empleadores_empleos <- within(data=empleadores_empleos, Position<-data.frame(do.call('rbind',strsplit(as.character(Var1),",",fixed=TRUE))))
+write.csv(empleadores_empleos, "empleadorXempleo.csv")
+empleadores_empleos <- read.csv("empleadorXempleo.csv")
+empleadores_empleos <- empleadores_empleos[,-(1:2)]
+empleadores_empleos <- empleadores_empleos[,-(4:5)]
+names(empleadores_empleos) <- c("Cantidad de Empleos", "Empleador","Tipo de Empleo")
+#Se escogen las empresas que ofrecen mas de 10 empleos
+empleadores_empleos <- empleadores_empleos[empleadores_empleos$`Cantidad de Empleos`>=10,]
+empleadores_empleos  <- empleadores_empleos [empleadores_empleos $Empleador!="N/A",]
+empleadores_empleos  <- empleadores_empleos [empleadores_empleos $`Tipo de Empleo`!="SE",]
+empleadores_empleos <- empleadores_empleos[-4,]
+mosaicplot(Empleador ~ `Tipo de Empleo`,data=empleadores_empleos ,color=c("#99cc99", "#cc9999", "#9999cc", "#9c9c9c", "lightskyblue2", "tomato"), las=1, main = " ")
 
+
+#Empleos menos solicitados en base a fecha de publicacion
+empleosXfecha <- data[,-1]
+empleosXfecha <- empleosXfecha[,-1]
+empleosXfecha[,1] = sapply(empleosXfecha[,1],as.character)
+empleosXfecha[,1] = sapply(empleosXfecha[,1],as.numeric)
+empleosXfecha <- empleosXfecha[empleosXfecha$Fecha>10,]
+empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="SE",]
+empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="FINANCE,",]
+empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="RECEPCIONISTA.",]
+empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="CONTRATACIÃ“N...",]
+empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="CONTRATACIÃ“N",]
+empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="VACANTE",]
+empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="OFERTA",]
+empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="EMPLEO",]
+empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="URGENTE!!!",]
+empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="URGENTE",]
+empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="BACHILLER",]
+empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="ASISTENTES",]
+empleosXfecha <-empleosXfecha [complete.cases(empleosXfecha ),]
+ggplot(empleosXfecha, aes(x=Fecha,y=Empleo)) + geom_point()
 
 
