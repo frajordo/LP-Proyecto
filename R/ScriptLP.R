@@ -157,7 +157,9 @@ empleosXfecha <- data[,-1]
 empleosXfecha <- empleosXfecha[,-1]
 empleosXfecha[,1] = sapply(empleosXfecha[,1],as.character)
 empleosXfecha[,1] = sapply(empleosXfecha[,1],as.numeric)
+empleosXfecha[,2] = sapply(empleosXfecha[,2],as.character)
 empleosXfecha <- empleosXfecha[empleosXfecha$Fecha>10,]
+empleosXfecha <-empleosXfecha [complete.cases(empleosXfecha ),]
 empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="SE",]
 empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="FINANCE,",]
 empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="RECEPCIONISTA.",]
@@ -170,7 +172,6 @@ empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="URGENTE!!!",]
 empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="URGENTE",]
 empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="BACHILLER",]
 empleosXfecha <- empleosXfecha[empleosXfecha$Empleo!="ASISTENTES",]
-empleosXfecha <-empleosXfecha [complete.cases(empleosXfecha ),]
 ggplot(empleosXfecha, aes(x=Fecha,y=Empleo)) + geom_point()
 
 
