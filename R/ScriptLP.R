@@ -1,5 +1,5 @@
 #Proyecto LP
-install.packages("randomcoloR")
+#install.packages("randomcoloR")
 library("randomcoloR")
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 datos=read.csv("../-Ecuador.csv")
@@ -27,15 +27,23 @@ pie(emplSortedQto[2:7],col = distinctColorPalette(6))
 t=sort(table(datos$Fecha),decreasing = TRUE)
 barplot(t[1:10],legend=TRUE,col=distinctColorPalette(10))
 
-
+library (ggplot2)
 
 #cuales son los empleos menos solicitados? 
 empleos <- tolower( gsub("([A-Za-z]+).*", "\\1", datos$Trabajo))
 #empleos <- empleos[ -c("graduado", "ingenier", "hca", "importante", "key","l", "lic", "liner", "polifuncional", "portoviejo", "profesionales", "programa", "project", "abogadoa", "necesito", "odont", "php" ,"matriceroa", "multinacional", "bluecard", "ec", "equipamiento", "especialista", "buscamos", "busco", "content", "control"), ]
 frecuecias_empleos <- table(empleos)
 empleos_ordenados <- sort(frecuecias_empleos,decreasing=FALSE)
-barplot(empleos_ordenados[1:20],legend=TRUE, col = distinctColorPalette(10))
+#barplot(empleos_ordenados[1:20],legend=TRUE, col = distinctColorPalette(10))
 
+
+dotchart(as.numeric(empleos_ordenados[1:15]), 
+         labels = NULL, groups = NULL,
+         gcolor = par("fg"), 
+         color = par("fg"),
+         main = "empleos menos solicitados",
+         xlab = "frecuecias"
+         )
 
 #�Qu� cantones tiene menor oferta laboral y cuales son esos empleos? 
 cantones <- tolower( gsub("([A-Za-z]+).*", "\\1", datos$Localizacion))
